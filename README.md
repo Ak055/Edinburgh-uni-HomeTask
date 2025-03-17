@@ -106,7 +106,6 @@ Edinburgh-uni-HomeTask/
 │   ├── pattern_analysis/
 │   │   ├── detect_palindromes.py
 │   │   ├── detect_unusual_patterns.py
-│   │   ├── find_known_motifs.py
 ├── main.py                     # Runs the full analysis
 ├── README.md                    # Documentation
 ```
