@@ -50,44 +50,41 @@ This report summarizes key findings from the analysis of **200 DNA sequences**, 
 
 ---
 
-## **3️⃣ Unusual Pattern Detection**
-(*This section will be updated once `unusual_patterns.json` is analyzed.*)
+## **📌 Unusual Pattern Detection**
+This section highlights unusual sequence patterns, including repetitive sequences, AT/GC-rich regions, low complexity regions, and known biological motifs.
 
-### **📌 Palindrome Sequences**
-- `XX` sequences contained palindromes of **≥ 20 bases**.
-- The longest palindrome detected: `"XXXXXXXXXXXXXXXXXXXX"` (`YY bases long`).
-- These sequences may have **structural or functional significance** in DNA folding.
+### **🔍 Palindrome Sequences**
+- **Total sequences with palindromes**: **5** sequences contained at least one palindrome.
+- **Longest palindrome detected**:  
+  `"TAAACGGGCCTTAATATATATTAAGGCCCGTTTA"` (**34 bases long**).
+- **Palindromes were relatively rare**, suggesting they may be associated with **specific structural or functional elements**.
 
-### **📌 Repetitive Sequences (Microsatellites)**
-- Found **`XX` sequences** containing **short tandem repeats (STRs)**.
-- Common repeats:
-  - `"ATATAT"` (`YY occurrences`)
-  - `"GCGCGC"` (`YY occurrences`)
-- Some sequences exhibited **extensive microsatellite regions**, which may be linked to **mutational instability**.
+### **🔍 Repetitive Sequences (Microsatellites)**
+- **76 unique repetitive sequences** detected.
+- Common repeats included:
+  - `"GGGGA"`
+  - `"CGC"`
+  - `"GAGA"`
+  - `"TTTT"`
+  - `"AATAAT"`
+  - `"GCCG"`
+- **Repeats may indicate mutational hotspots** or structural stability in DNA.
 
-### **📌 AT- or GC-Rich Regions**
-- **`XX` sequences** contained **AT-rich (≥ 80%) regions**.
-- **`XX` sequences** contained **GC-rich (≥ 80%) regions**.
-- **High GC content regions** could indicate **functional elements like CpG islands**.
+### **🔍 AT- or GC-Rich Regions**
+- **AT-rich sequences** (≥ 80% A/T content): **18,734 sequences**.
+- **GC-rich sequences** (≥ 80% G/C content): **32,669 sequences**.
+- **GC-rich regions may indicate functional elements like CpG islands**, known to affect gene expression.
 
-### **📌 Low Complexity Sequences**
-- **`XX` sequences** had regions dominated by **just 1 or 2 bases**.
-- **Highly repetitive, low-complexity regions** may be **mutation-prone or result from sequencing artifacts**.
+### **🔍 Low Complexity Sequences**
+- **16 sequences** contained **low-complexity regions**.
+- These were dominated by **just 1 or 2 bases**, including:
+  - `"AAAAAA"`
+  - `"GTGTGT"`
+- **Such regions may be prone to mutations** or sequencing artifacts.
 
-### **📌 Known Biological Motifs**
-- **TATA Box (`TATAAA`)** was found in **`XX` sequences**, suggesting **potential promoter regions**.
-- **CpG islands (`CGCGCG`)** were found in **`XX` sequences**, possibly linked to **gene regulation**.
+### **🔍 Known Biological Motifs**
+- **Motifs detected in sequences**:
+  - **TATA Box** (suggests potential promoter regions).
+  - **CpG Islands** (associated with gene regulation and methylation).
 
 ---
-
-## **4️⃣ Conclusions & Next Steps**
-- The dataset contains **diverse sequence patterns**, including **palindromes, STRs, high GC regions, and functional motifs**.
-- **Further investigation** into **sequences with extreme GC content and unusual patterns** could reveal **biological relevance**.
-- Future work could include:
-  - Comparing these findings with **real genomic data**.
-  - Identifying **functional elements** using external genomic databases.
-  - Applying **machine learning** to classify sequences based on features.
-
----
-
-🔬 **This analysis provides valuable insights into sequence structure, functional elements, and potential genetic variations.** 🚀
