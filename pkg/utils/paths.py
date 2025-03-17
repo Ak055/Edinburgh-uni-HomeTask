@@ -34,5 +34,9 @@ os.makedirs(KMER_ANALYSIS_DIR, exist_ok=True)
 PATTERN_ANALYSIS_DIR = os.path.join(OUTPUT_DIR, "pattern_analysis")
 PALINDROMES_JSON = os.path.join(PATTERN_ANALYSIS_DIR, "palindromes.json")
 
+# === PATTERN ANALYSIS OUTPUT PATHS ===
+UNUSUAL_PATTERNS_JSON = os.path.join(PATTERN_ANALYSIS_DIR, "unusual_patterns.json")
+
+
 # Ensure directory exists
 os.makedirs(PATTERN_ANALYSIS_DIR, exist_ok=True)
