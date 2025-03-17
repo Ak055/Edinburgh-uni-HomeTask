@@ -8,9 +8,12 @@ from pkg.utils import paths, read_json
 from pkg.gc_analysis import compute_gc, plot_gc
 from pkg.dinucleotide_analysis import compute_dinucleotide
 from pkg.kmer_analysis import compute_kmer
+from pkg.pattern_analysis import detect_palindromes
+from pkg.pattern_analysis import detect_unusual_patterns
 
 # === LOAD DATA ===
 sequences = read_json.load_sequences()
+#sequences = [seq[:50] for seq in sequences[:10]]
 
 # === COMPUTE GC CONTENT ===
 gc_distribution = compute_gc.distribution(sequences)
@@ -30,3 +33,8 @@ dinucleotide_counts.to_json(paths.DINUCLEOTIDE_JSON, orient="records", indent=4)
 # === COMPUTE K-MER FREQUENCIES ===
 compute_kmer.save_kmer_results(sequences)
 
+# === DETECT PALINDROMIC SEQUENCES ===
+#detect_palindromes.save_palindrome_results(sequences)
+
+# === DETECT UNUSUAL PATTERNS ===
+detect_unusual_patterns.save_unusual_patterns(sequences)
