@@ -1,8 +1,13 @@
 import matplotlib.pyplot as plt
+import os
+
+# Ensure output directory exists
+output_dir = "outputs/gc_analysis"
+os.makedirs(output_dir, exist_ok=True)  # Create folder if it doesn't exist
 
 def histogram(gc_contents):
     """
-    Plot a histogram of GC content distribution.
+    Plot and save a histogram of GC content distribution.
 
     :param gc_contents: List of GC content percentages.
     """
@@ -12,11 +17,17 @@ def histogram(gc_contents):
     plt.ylabel("Number of Sequences")
     plt.title("HISTOGRAM \n GC Content Distribution of DNA Sequences")
     plt.grid(True)
+
+    # Save plot
+    plot_path = os.path.join(output_dir, "gc_histogram.png")
+    plt.savefig(plot_path, dpi=300)
+    print(f"Histogram plot saved to {plot_path}")
+
     plt.show()
-    
+
 def line(gc_contents):
     """
-    Plot GC content for all sequences as a line graph.
+    Plot and save GC content as a line graph.
 
     :param gc_contents: List of GC content percentages.
     """
@@ -26,11 +37,17 @@ def line(gc_contents):
     plt.ylabel("GC Content (%)")
     plt.title("LINE PLOT \n GC Content of Each DNA Sequence")
     plt.grid(True)
+
+    # Save plot
+    plot_path = os.path.join(output_dir, "gc_line_plot.png")
+    plt.savefig(plot_path, dpi=300)
+    print(f"Line plot saved to {plot_path}")
+
     plt.show()
-    
+
 def scatter(gc_contents):
     """
-    Plot GC content for all sequences as a scatter plot.
+    Plot and save GC content as a scatter plot.
 
     :param gc_contents: List of GC content percentages.
     """
@@ -40,4 +57,10 @@ def scatter(gc_contents):
     plt.ylabel("GC Content (%)")
     plt.title("SCATTER PLOT \n GC Content of Each DNA Sequence")
     plt.grid(True)
+
+    # Save plot
+    plot_path = os.path.join(output_dir, "gc_scatter_plot.png")
+    plt.savefig(plot_path, dpi=300)
+    print(f"Scatter plot saved to {plot_path}")
+
     plt.show()

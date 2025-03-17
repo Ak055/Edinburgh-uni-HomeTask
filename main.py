@@ -4,29 +4,38 @@ Created on Mon Mar 17 14:12:31 2025
 
 @author: AnushKolakalur
 """
-from data import read_json
+from pkg.utils import paths, read_json
+from pkg.gc_analysis import compute_gc, plot_gc
+from pkg.dinucleotide_analysis import compute_dinucleotide
 
-file_path = "data/dna_sequences.json" 
-sequences = read_json.load_sequences(file_path)
+# === LOAD DATA ===
+sequences = read_json.load_sequences()
 
-#test = sequences[1][:5]
+# === COMPUTE GC CONTENT ===
+gc_distribution = compute_gc.distribution(sequences)
+summary = compute_gc.summary_statistics(gc_distribution)
 
-from pkg.gc_analysis import compute_gc
+# Print summary statistics
+print("\nGC Content Statistics:")
+print(f"Mean: {summary['mean_gc']:.2f}%")
+print(f"Min: {summary['min_gc']:.2f}%")
+print(f"Max: {summary['max_gc']:.2f}%")
+print(f"Standard Deviation: {summary['std_gc']:.2f}")
 
-# Compute GC content
-gc_distribution = compute_gc.gc_distribution(sequences)
+# Generate and save GC content plots
+plot_gc.histogram(gc_distribution)
+plot_gc.line(gc_distribution)
+plot_gc.scatter(gc_distribution)
 
-# Compute summary statistics
-summary = compute_gc.gc_summary_statistics(gc_distribution)
+# === COMPUTE DINUCLEOTIDE FREQUENCIES ===
+dinucleotide_counts = compute_dinucleotide.compute_dinucleotide_frequencies(sequences)
 
-# Print summary
-print(f"GC Content Statistics:\nMean: {summary['mean_gc']:.2f}%\n"
-      f"Min: {summary['min_gc']:.2f}%\nMax: {summary['max_gc']:.2f}%\n"
-      f"Standard Deviation: {summary['std_gc']:.2f}")
+# Print first 5 rows of the dinucleotide frequency DataFrame
+print("\nDinucleotide Frequency DataFrame (First 5 Sequences):")
+print(dinucleotide_counts.head())
 
-# Plot GC content distribution
-compute_gc.plot_histogram(gc_distribution)
+# Save the dinucleotide frequency DataFrame as a JSON file
+dinucleotide_counts.to_json(paths.DINUCLEOTIDE_JSON, orient="records", indent=4)
 
-compute_gc.plot_line(gc_distribution)
+print(f"\nDinucleotide frequencies saved to {paths.DINUCLEOTIDE_JSON}")
 
-compute_gc.plot_scatter(gc_distribution)
