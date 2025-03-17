@@ -13,6 +13,7 @@ GC_ANALYSIS_DIR = os.path.join(OUTPUT_DIR, "gc_analysis")
 GC_HISTOGRAM = os.path.join(GC_ANALYSIS_DIR, "gc_histogram.png")
 GC_LINE_PLOT = os.path.join(GC_ANALYSIS_DIR, "gc_line_plot.png")
 GC_SCATTER_PLOT = os.path.join(GC_ANALYSIS_DIR, "gc_scatter_plot.png")
+GC_SUMMARY_JSON = os.path.join(GC_ANALYSIS_DIR, "gc_summary.json")
 
 # === DINUCLEOTIDE ANALYSIS OUTPUT PATHS ===
 DINUCLEOTIDE_ANALYSIS_DIR = os.path.join(OUTPUT_DIR, "dinucleotide_analysis")
