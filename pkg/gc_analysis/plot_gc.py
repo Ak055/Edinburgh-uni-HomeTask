@@ -1,9 +1,19 @@
-import matplotlib.pyplot as plt
-import os
+"""
+plot_gc.py
 
-# Ensure output directory exists
-output_dir = "outputs/gc_analysis"
-os.makedirs(output_dir, exist_ok=True)  # Create folder if it doesn't exist
+This script generates and saves three different visualizations for GC content:
+- Histogram of GC content distribution
+- Line plot showing GC content for each sequence
+- Scatter plot for GC content distribution
+
+Functions:
+- histogram(gc_contents): Plots and saves a histogram.
+- line(gc_contents): Plots and saves a line chart.
+- scatter(gc_contents): Plots and saves a scatter plot.
+"""
+
+import matplotlib.pyplot as plt
+from pkg.utils import paths  # Import paths for saving plots
 
 def histogram(gc_contents):
     """
@@ -19,9 +29,8 @@ def histogram(gc_contents):
     plt.grid(True)
 
     # Save plot
-    plot_path = os.path.join(output_dir, "gc_histogram.png")
-    plt.savefig(plot_path, dpi=300)
-    print(f"Histogram plot saved to {plot_path}")
+    plt.savefig(paths.GC_HISTOGRAM, dpi=300)
+    print(f"Histogram plot saved to {paths.GC_HISTOGRAM}")
 
     plt.show()
 
@@ -32,16 +41,15 @@ def line(gc_contents):
     :param gc_contents: List of GC content percentages.
     """
     plt.figure(figsize=(10, 5))
-    plt.plot(gc_contents, marker='o', linestyle='-', color='b', markersize=4)  # Line with dots
+    plt.plot(gc_contents, marker='o', linestyle='-', color='b', markersize=4)
     plt.xlabel("Sequence Index")
     plt.ylabel("GC Content (%)")
     plt.title("LINE PLOT \n GC Content of Each DNA Sequence")
     plt.grid(True)
 
     # Save plot
-    plot_path = os.path.join(output_dir, "gc_line_plot.png")
-    plt.savefig(plot_path, dpi=300)
-    print(f"Line plot saved to {plot_path}")
+    plt.savefig(paths.GC_LINE_PLOT, dpi=300)
+    print(f"Line plot saved to {paths.GC_LINE_PLOT}")
 
     plt.show()
 
@@ -52,15 +60,14 @@ def scatter(gc_contents):
     :param gc_contents: List of GC content percentages.
     """
     plt.figure(figsize=(10, 5))
-    plt.scatter(range(len(gc_contents)), gc_contents, color='r', alpha=0.6)  # Red dots
+    plt.scatter(range(len(gc_contents)), gc_contents, color='r', alpha=0.6)
     plt.xlabel("Sequence Index")
     plt.ylabel("GC Content (%)")
     plt.title("SCATTER PLOT \n GC Content of Each DNA Sequence")
     plt.grid(True)
 
     # Save plot
-    plot_path = os.path.join(output_dir, "gc_scatter_plot.png")
-    plt.savefig(plot_path, dpi=300)
-    print(f"Scatter plot saved to {plot_path}")
+    plt.savefig(paths.GC_SCATTER_PLOT, dpi=300)
+    print(f"Scatter plot saved to {paths.GC_SCATTER_PLOT}")
 
     plt.show()
