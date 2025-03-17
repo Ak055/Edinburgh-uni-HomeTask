@@ -1,5 +1,7 @@
 import pandas as pd
 from collections import Counter
+from pkg.utils import paths
+
 
 VALID_BASES = {'A', 'T', 'G', 'C'}
 
@@ -25,9 +27,16 @@ def compute_dinucleotide_frequencies(sequences, normalize=False):
                 dinucleotide_counts[dinucleotide] += 1
 
         all_frequencies.append(dinucleotide_counts)
-
+        
     df = pd.DataFrame(all_frequencies).fillna(0)  # Convert to DataFrame and replace NaNs with 0
+
+    # Save the dinucleotide frequency DataFrame as a JSON file
+    df.to_json(paths.DINUCLEOTIDE_JSON, orient="records", indent=4)
+
+    print(f"\nDinucleotide frequencies saved to {paths.DINUCLEOTIDE_JSON}")
+
     return df
+
 
 
 

@@ -23,4 +23,10 @@ DINUCLEOTIDE_JSON = os.path.join(DINUCLEOTIDE_ANALYSIS_DIR, "dinucleotide_freque
 os.makedirs(GC_ANALYSIS_DIR, exist_ok=True)
 os.makedirs(DINUCLEOTIDE_ANALYSIS_DIR, exist_ok=True)
 
+# === K-MER ANALYSIS OUTPUT PATHS ===
+KMER_ANALYSIS_DIR = os.path.join(OUTPUT_DIR, "kmer_analysis")
+KMER_JSON = os.path.join(KMER_ANALYSIS_DIR, "kmer_frequencies.json")
+
+# Ensure directories exist
+os.makedirs(KMER_ANALYSIS_DIR, exist_ok=True)
 

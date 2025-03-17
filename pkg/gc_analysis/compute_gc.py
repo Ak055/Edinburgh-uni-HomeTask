@@ -1,4 +1,6 @@
+import json
 import numpy as np
+from pkg.utils import paths
 
 def gc_content(sequence):
     """
@@ -33,6 +35,14 @@ def summary_statistics(gc_contents):
         "std_gc": np.std(gc_contents)
     }
 
+    # Save GC summary as JSON
+    with open(paths.GC_SUMMARY_JSON, "w") as f:
+        json.dump(summary, f, indent=4)
+
+    print(f"\nGC Content Summary saved to {paths.GC_SUMMARY_JSON}")
+    
+    return summary
+    
 
 
 
