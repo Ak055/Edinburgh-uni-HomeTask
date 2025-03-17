@@ -4,7 +4,8 @@ Created on Mon Mar 17 14:12:31 2025
 
 @author: AnushKolakalur
 """
-from pkg.utils import paths, read_json
+import json
+from pkg.utils import paths, read_json  
 from pkg.gc_analysis import compute_gc, plot_gc
 from pkg.dinucleotide_analysis import compute_dinucleotide
 
@@ -15,12 +16,12 @@ sequences = read_json.load_sequences()
 gc_distribution = compute_gc.distribution(sequences)
 summary = compute_gc.summary_statistics(gc_distribution)
 
-# Print summary statistics
-print("\nGC Content Statistics:")
-print(f"Mean: {summary['mean_gc']:.2f}%")
-print(f"Min: {summary['min_gc']:.2f}%")
-print(f"Max: {summary['max_gc']:.2f}%")
-print(f"Standard Deviation: {summary['std_gc']:.2f}")
+# Save GC summary statistics as JSON
+gc_summary_path = paths.GC_SUMMARY_JSON
+with open(gc_summary_path, "w") as f:
+    json.dump(summary, f, indent=4)
+
+print(f"\nGC Content Summary saved to {gc_summary_path}")
 
 # Generate and save GC content plots
 plot_gc.histogram(gc_distribution)
@@ -38,4 +39,5 @@ print(dinucleotide_counts.head())
 dinucleotide_counts.to_json(paths.DINUCLEOTIDE_JSON, orient="records", indent=4)
 
 print(f"\nDinucleotide frequencies saved to {paths.DINUCLEOTIDE_JSON}")
+
 
