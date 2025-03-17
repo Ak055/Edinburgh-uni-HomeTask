@@ -1,232 +1,4602 @@
 [
     {
         "k=3": {
-            "TGG": 5,
-            "GGA": 4,
-            "GAG": 4,
-            "CCC": 4,
-            "GCC": 3
+            "CCC": 64,
+            "GCC": 49,
+            "CGC": 38,
+            "GGG": 36,
+            "CCG": 36
         },
         "k=4": {
-            "TGGA": 3,
-            "GGAG": 3,
-            "GAGG": 2,
-            "CCTG": 2,
-            "CTGG": 2
+            "CCCC": 28,
+            "CGCC": 23,
+            "GCCG": 20,
+            "GCCC": 19,
+            "CCGG": 17
         },
         "k=5": {
-            "TGGAG": 2,
-            "CCTGG": 2,
-            "GGCCC": 2,
-            "GGAGG": 1,
-            "GAGGA": 1
+            "CCCCC": 13,
+            "CCGCC": 11,
+            "CCCCA": 10,
+            "CGCCC": 10,
+            "GCCGC": 10
         }
     },
     {
         "k=3": {
-            "CTG": 3,
-            "TGA": 3,
-            "AAA": 3,
-            "ACT": 2,
-            "GAA": 2
+            "CCT": 36,
+            "CTG": 35,
+            "GGG": 31,
+            "CTC": 29,
+            "CAC": 28
         },
         "k=4": {
-            "CTGA": 2,
-            "TGAA": 2,
-            "GAAT": 2,
-            "GCAA": 2,
-            "GATG": 1
+            "GCCT": 13,
+            "CCTC": 13,
+            "CTGG": 12,
+            "CCCC": 12,
+            "CTCC": 12
         },
         "k=5": {
-            "TGAAT": 2,
-            "GATGG": 1,
-            "ATGGA": 1,
-            "TGGAC": 1,
-            "GGACA": 1
+            "CTGGG": 9,
+            "CAGGG": 7,
+            "CCTCC": 7,
+            "TCCCC": 6,
+            "CACTG": 5
         }
     },
     {
         "k=3": {
-            "AAT": 4,
-            "AAA": 3,
-            "TAA": 3,
-            "TAC": 3,
-            "TTA": 3
+            "GGG": 53,
+            "GGC": 40,
+            "CAG": 34,
+            "AGG": 31,
+            "GCA": 30
         },
         "k=4": {
-            "AAAT": 2,
-            "AATA": 2,
-            "TAAT": 2,
-            "TACA": 2,
-            "AATT": 2
+            "GGGG": 19,
+            "GCAG": 16,
+            "GGGC": 15,
+            "CGGG": 15,
+            "CAGG": 12
         },
         "k=5": {
-            "AATTT": 2,
-            "AAATA": 1,
-            "AATAA": 1,
-            "ATAAT": 1,
-            "TAATA": 1
+            "GCTGA": 7,
+            "GCGGG": 7,
+            "GAGGG": 7,
+            "GGGGG": 7,
+            "GCAGG": 6
         }
     },
     {
         "k=3": {
-            "AAA": 5,
-            "TGT": 4,
-            "ATA": 3,
-            "AGA": 3,
-            "GTG": 3
+            "AAA": 54,
+            "AGA": 41,
+            "GAG": 31,
+            "AAG": 30,
+            "CTG": 28
         },
         "k=4": {
-            "AAAA": 3,
-            "TGTG": 3,
-            "AAAG": 2,
-            "AAGA": 2,
-            "GTGT": 2
+            "AAAA": 21,
+            "AGAG": 18,
+            "GAGA": 16,
+            "AAAG": 15,
+            "GAAA": 14
         },
         "k=5": {
-            "AAAAG": 2,
-            "AAAGA": 2,
-            "TGTGT": 2,
-            "ATAGT": 1,
-            "TAGTA": 1
+            "AGAGA": 12,
+            "AAAAA": 9,
+            "TGTGT": 9,
+            "GAGAG": 9,
+            "AAAGG": 7
         }
     },
     {
         "k=3": {
-            "GAG": 4,
-            "AGT": 4,
-            "GTG": 4,
-            "TGG": 3,
-            "GGA": 2
+            "AGG": 32,
+            "GGG": 29,
+            "GGA": 29,
+            "GAG": 28,
+            "CTG": 27
         },
         "k=4": {
-            "GGAG": 2,
-            "GAGT": 2,
-            "AGTC": 2,
-            "AGTG": 2,
-            "TTAT": 2
+            "AGGA": 12,
+            "GCTG": 12,
+            "GGGA": 11,
+            "AGAG": 11,
+            "GGAG": 10
         },
         "k=5": {
-            "GAGTC": 2,
-            "TGGGA": 1,
-            "GGGAG": 1,
-            "GGAGG": 1,
-            "GAGGA": 1
+            "GGAAG": 6,
+            "GAAGG": 6,
+            "GCTGC": 6,
+            "GCCAG": 6,
+            "TCCAA": 5
         }
     },
     {
         "k=3": {
-            "CCC": 7,
-            "CGC": 4,
-            "CCG": 3,
-            "GGG": 2,
-            "GGA": 2
+            "GGG": 92,
+            "GCC": 87,
+            "CGC": 79,
+            "GCG": 77,
+            "CCG": 73
         },
         "k=4": {
-            "CCCC": 3,
-            "CCCG": 3,
-            "CCGC": 3,
-            "TCCC": 2,
-            "GAGG": 2
+            "CGCC": 42,
+            "CCGC": 41,
+            "GGGG": 41,
+            "GGGC": 38,
+            "GCCC": 37
         },
         "k=5": {
-            "CCCGC": 3,
-            "TCCCG": 2,
-            "GGGAC": 1,
-            "GGACC": 1,
-            "GACCC": 1
+            "GGGGC": 27,
+            "GCCCG": 25,
+            "GGGCG": 23,
+            "CCGCC": 23,
+            "CGGGG": 21
         }
     },
     {
         "k=3": {
-            "GGA": 4,
-            "GAA": 4,
-            "CCC": 3,
-            "CTG": 3,
-            "TCC": 2
+            "GGG": 82,
+            "CGG": 66,
+            "GCG": 64,
+            "GCC": 55,
+            "CCG": 53
         },
         "k=4": {
-            "GGAA": 3,
-            "CCGG": 2,
-            "AGGA": 2,
-            "ACCC": 2,
-            "GGGA": 2
+            "CGGG": 32,
+            "GCGG": 32,
+            "GGGG": 32,
+            "GCGC": 30,
+            "CCGG": 28
         },
         "k=5": {
-            "AGGAA": 2,
-            "GGAAG": 2,
-            "CCCTG": 2,
-            "CCTGG": 2,
-            "TTTCC": 1
+            "GCGCG": 19,
+            "CGCGG": 16,
+            "GCGGG": 16,
+            "CCCGG": 14,
+            "GGGGC": 14
         }
     },
     {
         "k=3": {
-            "GAG": 5,
-            "AGG": 3,
-            "GGA": 3,
-            "CGG": 3,
-            "AGA": 2
+            "CGG": 51,
+            "GGG": 51,
+            "GCG": 51,
+            "CCG": 47,
+            "CGC": 44
         },
         "k=4": {
-            "GGAG": 3,
-            "GAGA": 2,
-            "ATCA": 2,
-            "GAGG": 2,
-            "GCGG": 2
+            "CGGG": 22,
+            "CGCG": 22,
+            "CCCG": 21,
+            "GCGG": 21,
+            "GGCG": 20
         },
         "k=5": {
-            "GGAGG": 2,
-            "AGGAG": 1,
-            "GGAGA": 1,
-            "GAGAA": 1,
-            "AGAAT": 1
+            "CGCGC": 12,
+            "AATAA": 11,
+            "CGGGG": 10,
+            "CCGCG": 10,
+            "GCGGG": 10
         }
     },
     {
         "k=3": {
-            "CCC": 3,
-            "AGC": 3,
-            "GCC": 3,
-            "CCT": 3,
-            "TCT": 2
+            "CCC": 90,
+            "GCC": 63,
+            "GGG": 43,
+            "CTC": 42,
+            "CGC": 39
         },
         "k=4": {
-            "CTCC": 2,
-            "AGCC": 2,
-            "GCCC": 2,
-            "CCCT": 2,
-            "TCTG": 1
+            "GCCC": 40,
+            "CCCC": 35,
+            "CCCG": 24,
+            "CCGC": 24,
+            "GGGG": 21
         },
         "k=5": {
-            "GCCCT": 2,
-            "TCTGC": 1,
-            "CTGCT": 1,
-            "TGCTC": 1,
-            "GCTCC": 1
+            "GCCCC": 21,
+            "CCCGC": 18,
+            "CCGCC": 17,
+            "CCCCG": 17,
+            "GGCCC": 15
         }
     },
     {
         "k=3": {
-            "AAA": 11,
-            "GAA": 4,
-            "TGA": 3,
-            "ACA": 3,
-            "AAT": 2
+            "CGC": 44,
+            "CCG": 42,
+            "GCC": 38,
+            "CCC": 37,
+            "GCG": 36
         },
         "k=4": {
-            "AAAA": 9,
-            "TGAA": 2,
-            "GAAA": 2,
-            "AAAT": 2,
-            "AATA": 2
+            "CCGC": 21,
+            "CGCC": 20,
+            "CCCG": 16,
+            "GCCC": 16,
+            "CCGG": 16
+        },
+        "k=5": {
+            "GCGCC": 9,
+            "AAAAA": 8,
+            "CCCGC": 8,
+            "CCGCC": 8,
+            "CCGCG": 7
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 56,
+            "CAC": 39,
+            "CAG": 37,
+            "AGG": 37,
+            "CCT": 37
+        },
+        "k=4": {
+            "CCCA": 20,
+            "ACAC": 18,
+            "CACA": 18,
+            "CAGG": 18,
+            "CCCC": 18
+        },
+        "k=5": {
+            "ACACA": 15,
+            "CACAC": 15,
+            "CCCAG": 10,
+            "CCAGG": 9,
+            "CAGGA": 8
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 52,
+            "CGG": 37,
+            "GGC": 37,
+            "GCC": 35,
+            "CTC": 31
+        },
+        "k=4": {
+            "CGGC": 20,
+            "CCCC": 17,
+            "CCCG": 15,
+            "GCCC": 14,
+            "CTCC": 14
+        },
+        "k=5": {
+            "CCCGG": 8,
+            "CCCAG": 8,
+            "CTCCT": 7,
+            "CCCCG": 7,
+            "CCGGC": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 86,
+            "CGG": 71,
+            "GGC": 70,
+            "GCC": 66,
+            "CCG": 66
+        },
+        "k=4": {
+            "GGGG": 44,
+            "CGGG": 42,
+            "GGGC": 42,
+            "GGCG": 37,
+            "GCGG": 37
+        },
+        "k=5": {
+            "CGGGG": 23,
+            "GGGGC": 23,
+            "GGCGG": 22,
+            "GGGCC": 22,
+            "CCGGG": 22
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 53,
+            "CCC": 50,
+            "GAG": 37,
+            "CAG": 37,
+            "AGG": 36
+        },
+        "k=4": {
+            "CCCC": 21,
+            "TGGG": 19,
+            "GGGG": 19,
+            "GGGA": 17,
+            "CTGC": 16
+        },
+        "k=5": {
+            "TGGGG": 9,
+            "CCCAG": 9,
+            "GGGAG": 8,
+            "GAGGG": 8,
+            "CTGCC": 8
+        }
+    },
+    {
+        "k=3": {
+            "CCT": 27,
+            "GGA": 26,
+            "GAG": 26,
+            "AGG": 25,
+            "TGG": 25
+        },
+        "k=4": {
+            "AGAA": 12,
+            "CTCC": 12,
+            "GGAG": 12,
+            "TGGA": 11,
+            "CCTC": 10
+        },
+        "k=5": {
+            "GAGAA": 6,
+            "GGAGA": 6,
+            "GAAAG": 5,
+            "CCCTT": 5,
+            "TGGAG": 5
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 55,
+            "GCC": 39,
+            "GGG": 39,
+            "CCT": 37,
+            "CTG": 37
+        },
+        "k=4": {
+            "CCCC": 20,
+            "CCCT": 17,
+            "GCCC": 17,
+            "CCTC": 16,
+            "CCTG": 15
+        },
+        "k=5": {
+            "CCCTG": 9,
+            "CTGGG": 9,
+            "CCTCT": 8,
+            "CCAGG": 8,
+            "CTTCC": 7
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 69,
+            "GCC": 42,
+            "GGC": 40,
+            "CTC": 38,
+            "CCG": 35
+        },
+        "k=4": {
+            "CCCC": 24,
+            "GCCC": 22,
+            "GGGC": 18,
+            "CTCC": 17,
+            "CCGC": 17
+        },
+        "k=5": {
+            "GCCCC": 11,
+            "GCTCC": 9,
+            "CGCCC": 9,
+            "CCCCA": 9,
+            "CCCAG": 9
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 90,
+            "GGC": 56,
+            "GAG": 52,
+            "GGA": 50,
+            "CCG": 50
+        },
+        "k=4": {
+            "GGGG": 31,
+            "GGGA": 30,
+            "GAGG": 28,
+            "CGGG": 27,
+            "GCCG": 26
+        },
+        "k=5": {
+            "GGAGG": 16,
+            "CCGGG": 15,
+            "GGGAG": 14,
+            "GCCGG": 13,
+            "GGCCG": 12
+        }
+    },
+    {
+        "k=3": {
+            "CGC": 65,
+            "GCC": 55,
+            "GCG": 48,
+            "CCG": 41,
+            "CCC": 41
+        },
+        "k=4": {
+            "CGCC": 28,
+            "GCGC": 26,
+            "CCGC": 25,
+            "GCCG": 22,
+            "CGCG": 22
+        },
+        "k=5": {
+            "CGCCG": 13,
+            "GCGCC": 12,
+            "CGCGC": 12,
+            "GCCGC": 11,
+            "CCGCC": 11
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 33,
+            "GCC": 32,
+            "AAA": 31,
+            "CCG": 26,
+            "CGC": 26
+        },
+        "k=4": {
+            "CCGC": 14,
+            "CCCA": 12,
+            "GCCC": 12,
+            "CCAC": 11,
+            "AAAA": 11
+        },
+        "k=5": {
+            "GCCGC": 7,
+            "CCGCC": 6,
+            "CAACT": 5,
+            "AAACG": 5,
+            "CCCAA": 5
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 51,
+            "CCC": 39,
+            "CCG": 34,
+            "CGC": 34,
+            "TGG": 33
+        },
+        "k=4": {
+            "GGGG": 24,
+            "GTGG": 14,
+            "GGTG": 13,
+            "CCCC": 13,
+            "GGGT": 13
+        },
+        "k=5": {
+            "GGGGG": 12,
+            "GGTGG": 9,
+            "TCCCC": 8,
+            "GGGGT": 8,
+            "GGGTG": 8
+        }
+    },
+    {
+        "k=3": {
+            "GGC": 48,
+            "GGG": 43,
+            "GCG": 40,
+            "AGG": 34,
+            "GAG": 31
+        },
+        "k=4": {
+            "GGCG": 17,
+            "GAGG": 16,
+            "AGGC": 14,
+            "GCGG": 14,
+            "GGGC": 14
+        },
+        "k=5": {
+            "GAGGC": 8,
+            "GCGTG": 8,
+            "GGAGG": 7,
+            "GGCGG": 7,
+            "TCCAG": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 45,
+            "CCC": 35,
+            "GCC": 32,
+            "GGA": 31,
+            "CCG": 29
+        },
+        "k=4": {
+            "CCGG": 16,
+            "GGGG": 16,
+            "CGGG": 15,
+            "GGAG": 15,
+            "GAGG": 15
+        },
+        "k=5": {
+            "CCGGG": 10,
+            "GGAGG": 10,
+            "GGGAG": 7,
+            "GCCCC": 7,
+            "CGGGG": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 45,
+            "CCT": 39,
+            "CTC": 38,
+            "GCC": 31,
+            "CTG": 31
+        },
+        "k=4": {
+            "TTTT": 20,
+            "CCTC": 19,
+            "CTGG": 15,
+            "CTCC": 14,
+            "GCTG": 13
+        },
+        "k=5": {
+            "TTTTT": 16,
+            "CCTCC": 9,
+            "CAGCC": 7,
+            "CTGGG": 7,
+            "GGGCC": 7
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 75,
+            "CTC": 50,
+            "CCT": 45,
+            "TCC": 43,
+            "GCC": 43
+        },
+        "k=4": {
+            "CCCC": 32,
+            "CCTC": 23,
+            "TCCC": 21,
+            "CTCC": 21,
+            "CCCA": 20
+        },
+        "k=5": {
+            "TCCCC": 14,
+            "CCCCA": 12,
+            "CCTCC": 12,
+            "GCCTC": 11,
+            "CTCCT": 10
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 65,
+            "CTG": 38,
+            "CCT": 37,
+            "GGG": 30,
+            "TCC": 29
+        },
+        "k=4": {
+            "CCCC": 30,
+            "CCCA": 16,
+            "CTGC": 15,
+            "CCCT": 15,
+            "GCTG": 14
+        },
+        "k=5": {
+            "CCCCC": 14,
+            "CCCCA": 9,
+            "TAATA": 8,
+            "AATAA": 7,
+            "ATAAT": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 74,
+            "GCG": 41,
+            "GGC": 34,
+            "CGG": 34,
+            "CGC": 30
+        },
+        "k=4": {
+            "GGGG": 36,
+            "GGCG": 21,
+            "GGGC": 20,
+            "CGGG": 20,
+            "GCGG": 16
+        },
+        "k=5": {
+            "GGGGG": 17,
+            "GGGCG": 13,
+            "GGGGC": 12,
+            "GCGGG": 11,
+            "GGCGG": 9
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 50,
+            "CTG": 42,
+            "CCT": 41,
+            "CAG": 33,
+            "TCC": 33
+        },
+        "k=4": {
+            "CCCC": 20,
+            "TTCC": 16,
+            "TCCC": 16,
+            "CCAG": 14,
+            "TCTG": 14
+        },
+        "k=5": {
+            "TCCCC": 9,
+            "CTTCC": 9,
+            "ACACA": 7,
+            "TTCCC": 7,
+            "CCCCA": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 41,
+            "GGA": 34,
+            "AGG": 32,
+            "AGC": 29,
+            "GCC": 29
+        },
+        "k=4": {
+            "GAGG": 14,
+            "GGGA": 13,
+            "GGAG": 13,
+            "AGGA": 13,
+            "CAGC": 12
+        },
+        "k=5": {
+            "GGAGG": 9,
+            "AAAAA": 9,
+            "GGAAG": 7,
+            "CCAAT": 7,
+            "GAGGA": 6
+        }
+    },
+    {
+        "k=3": {
+            "GTG": 61,
+            "CCC": 57,
+            "TGT": 53,
+            "GGG": 45,
+            "CTG": 40
+        },
+        "k=4": {
+            "TGTG": 34,
+            "GTGT": 33,
+            "CCCC": 26,
+            "TGGG": 19,
+            "GCCC": 17
+        },
+        "k=5": {
+            "GTGTG": 21,
+            "TGTGT": 19,
+            "CCCCC": 12,
+            "AAAAA": 9,
+            "GGTGT": 8
+        }
+    },
+    {
+        "k=3": {
+            "GCG": 81,
+            "CGG": 75,
+            "GGC": 74,
+            "CGC": 69,
+            "GGG": 64
+        },
+        "k=4": {
+            "CGCG": 44,
+            "GCGG": 41,
+            "GCGC": 40,
+            "CGGC": 39,
+            "GGCC": 38
+        },
+        "k=5": {
+            "CGCGG": 26,
+            "GCGCG": 24,
+            "GCGGC": 23,
+            "GGCGC": 22,
+            "CGGCC": 22
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 58,
+            "GCG": 45,
+            "CGC": 45,
+            "GCC": 42,
+            "GGG": 41
+        },
+        "k=4": {
+            "CCCC": 26,
+            "GCGC": 20,
+            "CGCC": 19,
+            "CCGC": 18,
+            "CCCG": 17
+        },
+        "k=5": {
+            "CCCCG": 11,
+            "CCGCC": 9,
+            "GCCCC": 9,
+            "CCCGC": 9,
+            "AAAAA": 8
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 56,
+            "CCC": 49,
+            "CTG": 43,
+            "GGC": 40,
+            "TGG": 36
+        },
+        "k=4": {
+            "TGGG": 20,
+            "GGGG": 20,
+            "CTGG": 19,
+            "CCTG": 17,
+            "GGGC": 17
+        },
+        "k=5": {
+            "GCTGG": 10,
+            "CTGGG": 10,
+            "GGGAG": 7,
+            "CCTCC": 7,
+            "GGAGG": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 72,
+            "GGC": 59,
+            "GCC": 46,
+            "CGG": 44,
+            "CCC": 43
+        },
+        "k=4": {
+            "GGGG": 33,
+            "GGGC": 25,
+            "GGCC": 24,
+            "GGCG": 20,
+            "CGGG": 20
+        },
+        "k=5": {
+            "GGGGC": 15,
+            "CGGGG": 13,
+            "GGCGG": 12,
+            "GCGGG": 11,
+            "CCTGG": 11
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 65,
+            "CCC": 51,
+            "GCG": 49,
+            "CGG": 36,
+            "GGA": 33
+        },
+        "k=4": {
+            "GGGG": 25,
+            "CCCC": 24,
+            "GCGG": 21,
+            "CGCG": 16,
+            "GGGA": 15
+        },
+        "k=5": {
+            "GGGGG": 10,
+            "GCGCG": 10,
+            "GGGCG": 9,
+            "GCGGG": 9,
+            "CCCCG": 9
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 57,
+            "GGC": 53,
+            "GCC": 51,
+            "CGG": 49,
+            "CCG": 47
+        },
+        "k=4": {
+            "CCGG": 24,
+            "GGGC": 23,
+            "GGCG": 23,
+            "GCCG": 23,
+            "CGGG": 22
+        },
+        "k=5": {
+            "GCCGG": 14,
+            "GGCGG": 14,
+            "CCGGG": 13,
+            "CGCCG": 11,
+            "GGGCG": 11
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 62,
+            "GGG": 47,
+            "GCC": 43,
+            "CTC": 41,
+            "GGC": 39
+        },
+        "k=4": {
+            "CCTC": 24,
+            "GCCC": 23,
+            "CCCC": 21,
+            "CCCG": 20,
+            "CTCC": 19
+        },
+        "k=5": {
+            "CCTCC": 12,
+            "CCCGC": 11,
+            "CCGCC": 11,
+            "CGCCC": 10,
+            "GGCCC": 9
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 63,
+            "AGG": 47,
+            "GAG": 35,
+            "GGA": 34,
+            "CTG": 33
+        },
+        "k=4": {
+            "GGGG": 23,
+            "AGGG": 21,
+            "GAGG": 19,
+            "GGAG": 16,
+            "CAGG": 16
+        },
+        "k=5": {
+            "CAGGG": 13,
+            "GGAGG": 9,
+            "GGGAG": 8,
+            "AGGGG": 8,
+            "GGGGG": 7
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 85,
+            "GGC": 44,
+            "GCC": 44,
+            "CCG": 34,
+            "TCT": 34
+        },
+        "k=4": {
+            "CCCC": 44,
+            "GCCC": 23,
+            "GGCC": 18,
+            "CTCT": 18,
+            "GGGC": 16
+        },
+        "k=5": {
+            "CCCCC": 19,
+            "GCCCC": 15,
+            "CCCCA": 11,
+            "CCGCC": 11,
+            "CGCCC": 10
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 63,
+            "GCC": 45,
+            "CCG": 45,
+            "CCT": 39,
+            "CGC": 39
+        },
+        "k=4": {
+            "CCGC": 23,
+            "CGCC": 21,
+            "CCCC": 20,
+            "TCCC": 19,
+            "CTCC": 16
+        },
+        "k=5": {
+            "GCCGC": 13,
+            "CCGCC": 11,
+            "CTCCC": 8,
+            "TCCCC": 8,
+            "CCCTG": 7
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 52,
+            "CCT": 49,
+            "CTC": 40,
+            "GGG": 36,
+            "TCC": 35
+        },
+        "k=4": {
+            "CTCC": 20,
+            "CCCT": 20,
+            "CCTC": 18,
+            "CCTG": 17,
+            "TCCC": 16
+        },
+        "k=5": {
+            "CCCTC": 11,
+            "CCTCC": 10,
+            "CTCCC": 10,
+            "CCTGG": 9,
+            "GGAGG": 8
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 37,
+            "CTG": 36,
+            "TCC": 35,
+            "CAG": 33,
+            "CCT": 32
+        },
+        "k=4": {
+            "TTTT": 19,
+            "CTCC": 18,
+            "CAGG": 17,
+            "CTGC": 15,
+            "CCTG": 14
+        },
+        "k=5": {
+            "TTTTT": 18,
+            "CCTCC": 10,
+            "TCCTG": 9,
+            "CAGGC": 8,
+            "CCTGC": 8
+        }
+    },
+    {
+        "k=3": {
+            "GCC": 46,
+            "CTG": 41,
+            "GGC": 39,
+            "AAA": 39,
+            "CGC": 35
+        },
+        "k=4": {
+            "AAAA": 32,
+            "CCTG": 19,
+            "GGCC": 18,
+            "CTGG": 17,
+            "GCCG": 16
+        },
+        "k=5": {
+            "AAAAA": 26,
+            "GCCGC": 11,
+            "GCGAG": 8,
+            "CCGCC": 8,
+            "GCCTG": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 43,
+            "CTC": 38,
+            "GCC": 38,
+            "TCC": 37,
+            "CCA": 36
+        },
+        "k=4": {
+            "CTCC": 22,
+            "CCAG": 18,
+            "CAGG": 18,
+            "GGGC": 18,
+            "GCGG": 16
+        },
+        "k=5": {
+            "CCAGG": 11,
+            "GGGCG": 9,
+            "GGGGC": 9,
+            "GGAGG": 8,
+            "GAGGG": 8
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 41,
+            "CTG": 40,
+            "GGG": 37,
+            "CAG": 35,
+            "TGG": 31
+        },
+        "k=4": {
+            "TGGG": 16,
+            "CTGG": 16,
+            "CCCC": 15,
+            "TCTG": 15,
+            "CAGG": 14
+        },
+        "k=5": {
+            "TGGGT": 8,
+            "CTCAG": 7,
+            "CTGAG": 7,
+            "GAGGA": 7,
+            "CCTCC": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 51,
+            "GCC": 36,
+            "GGA": 34,
+            "TTT": 33,
+            "GGC": 32
+        },
+        "k=4": {
+            "TTTT": 23,
+            "GGGG": 20,
+            "GGAG": 17,
+            "CGCC": 16,
+            "CTGG": 14
+        },
+        "k=5": {
+            "TTTTT": 19,
+            "AAAAA": 13,
+            "TGGGG": 10,
+            "CGCCC": 9,
+            "GCGCC": 8
+        }
+    },
+    {
+        "k=3": {
+            "AGG": 38,
+            "GGG": 35,
+            "GGC": 32,
+            "GCG": 30,
+            "GAG": 29
+        },
+        "k=4": {
+            "CGCG": 13,
+            "GCTG": 13,
+            "AGGC": 13,
+            "GAGG": 13,
+            "GGCG": 13
+        },
+        "k=5": {
+            "GAAGG": 8,
+            "CAGGC": 6,
+            "GGCTG": 6,
+            "GTGTC": 6,
+            "CTGGG": 6
+        }
+    },
+    {
+        "k=3": {
+            "TTT": 43,
+            "GGG": 37,
+            "AGG": 33,
+            "GGA": 32,
+            "CCC": 31
+        },
+        "k=4": {
+            "TTTT": 16,
+            "GGAG": 14,
+            "GAAG": 14,
+            "GGAA": 14,
+            "TGGG": 13
+        },
+        "k=5": {
+            "GGAGG": 8,
+            "GAAGG": 8,
+            "AGCTG": 7,
+            "CTGGG": 7,
+            "TTTTC": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 60,
+            "CGC": 48,
+            "CCC": 47,
+            "GCC": 45,
+            "GGC": 45
+        },
+        "k=4": {
+            "CCGC": 23,
+            "CGCC": 21,
+            "CCCC": 20,
+            "GCCG": 19,
+            "GGGG": 19
+        },
+        "k=5": {
+            "GCCGC": 15,
+            "CCGCC": 12,
+            "GCGGC": 9,
+            "GGCGG": 9,
+            "CGCCC": 9
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 66,
+            "CCC": 65,
+            "CCT": 46,
+            "CTG": 44,
+            "TCC": 42
+        },
+        "k=4": {
+            "GGGG": 30,
+            "CCCC": 30,
+            "CCTG": 21,
+            "TGGG": 20,
+            "CTCC": 19
+        },
+        "k=5": {
+            "TGGGG": 13,
+            "CTGGG": 13,
+            "CCCCC": 12,
+            "GGGGA": 10,
+            "GCCTG": 9
+        }
+    },
+    {
+        "k=3": {
+            "GAG": 41,
+            "GCG": 30,
+            "AGG": 28,
+            "GGC": 27,
+            "GGG": 26
+        },
+        "k=4": {
+            "GGAG": 16,
+            "GAGG": 15,
+            "GAGA": 12,
+            "GGCG": 11,
+            "CCTC": 10
+        },
+        "k=5": {
+            "GGGAG": 6,
+            "GAGAA": 6,
+            "GGAGA": 5,
+            "GCCTC": 5,
+            "CGGGC": 5
+        }
+    },
+    {
+        "k=3": {
+            "AAG": 42,
+            "AGA": 34,
+            "GAA": 30,
+            "AGG": 30,
+            "AAA": 29
+        },
+        "k=4": {
+            "AAGG": 16,
+            "GAAG": 15,
+            "AGAG": 14,
+            "AAGA": 12,
+            "AAAG": 12
+        },
+        "k=5": {
+            "AACAA": 7,
+            "AGAAG": 6,
+            "AAAGG": 6,
+            "AAGGG": 6,
+            "AGACA": 5
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 83,
+            "GCC": 73,
+            "CCG": 73,
+            "GGG": 72,
+            "GGC": 64
+        },
+        "k=4": {
+            "GCCC": 44,
+            "CCCG": 44,
+            "GGGG": 41,
+            "CCCC": 39,
+            "GGCC": 38
+        },
+        "k=5": {
+            "GCCCG": 24,
+            "CCCGC": 24,
+            "GGCCC": 23,
+            "CGGGG": 22,
+            "GGGGC": 22
+        }
+    },
+    {
+        "k=3": {
+            "CTG": 41,
+            "CCT": 39,
+            "CCC": 35,
+            "CAG": 34,
+            "GGG": 33
+        },
+        "k=4": {
+            "GCTG": 17,
+            "CCTC": 14,
+            "AGGG": 14,
+            "GGGC": 14,
+            "CAGG": 14
+        },
+        "k=5": {
+            "TGCCT": 7,
+            "CTGTG": 7,
+            "GGCTG": 7,
+            "AGCTG": 6,
+            "AGGGG": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 94,
+            "AGG": 53,
+            "GAG": 53,
+            "GGA": 49,
+            "CCC": 37
+        },
+        "k=4": {
+            "GGGG": 49,
+            "GGAG": 27,
+            "AGGG": 26,
+            "GAGG": 26,
+            "GGGA": 21
+        },
+        "k=5": {
+            "GGGGG": 31,
+            "GAGGG": 17,
+            "GGAGG": 16,
+            "AGGGG": 11,
+            "GGCGG": 11
+        }
+    },
+    {
+        "k=3": {
+            "AAA": 39,
+            "CTG": 39,
+            "GGG": 38,
+            "TGG": 35,
+            "GTG": 32
+        },
+        "k=4": {
+            "AAAA": 30,
+            "GGGG": 16,
+            "CCAG": 14,
+            "CCTG": 14,
+            "GTGG": 13
+        },
+        "k=5": {
+            "AAAAA": 27,
+            "TGAGG": 10,
+            "GGCTG": 8,
+            "GAGGC": 7,
+            "CCCAG": 6
+        }
+    },
+    {
+        "k=3": {
+            "CCA": 42,
+            "CTC": 42,
+            "TCC": 41,
+            "CCC": 41,
+            "CCT": 38
+        },
+        "k=4": {
+            "CCCA": 21,
+            "CCAG": 18,
+            "CTCC": 17,
+            "TCCC": 16,
+            "CCTC": 15
+        },
+        "k=5": {
+            "CCCAG": 10,
+            "CCAGG": 8,
+            "CCTCC": 8,
+            "CCCCA": 7,
+            "CTCTC": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 66,
+            "GCC": 48,
+            "CGC": 46,
+            "GGC": 46,
+            "GCG": 42
+        },
+        "k=4": {
+            "GGGG": 24,
+            "GGGC": 21,
+            "GCGC": 20,
+            "CCGC": 19,
+            "CCTG": 19
+        },
+        "k=5": {
+            "CCTGG": 11,
+            "GGGGC": 11,
+            "CTGGG": 9,
+            "GCCGC": 9,
+            "GGCCG": 9
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 58,
+            "GGG": 43,
+            "CGC": 37,
+            "GGC": 35,
+            "GCG": 32
+        },
+        "k=4": {
+            "CCCC": 21,
+            "GGGC": 17,
+            "CCCA": 15,
+            "GGGG": 13,
+            "GCGC": 13
+        },
+        "k=5": {
+            "CCCGC": 8,
+            "GGGGC": 7,
+            "GGGCG": 7,
+            "CACCC": 7,
+            "ACCCC": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 62,
+            "GGC": 44,
+            "GGA": 43,
+            "AGG": 41,
+            "GAG": 40
+        },
+        "k=4": {
+            "GGGG": 23,
+            "GAGG": 17,
+            "GGAG": 17,
+            "GGGC": 17,
+            "GGCG": 16
+        },
+        "k=5": {
+            "GAGGG": 9,
+            "GGGCG": 9,
+            "GGAGG": 8,
+            "GGGGC": 8,
+            "CGGGG": 8
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 39,
+            "AAA": 36,
+            "TGG": 31,
+            "GCC": 30,
+            "GGA": 29
+        },
+        "k=4": {
+            "AAAA": 29,
+            "TGGG": 15,
+            "GGAG": 13,
+            "GGGA": 12,
+            "GGGC": 12
+        },
+        "k=5": {
+            "AAAAA": 28,
+            "GGGAG": 7,
+            "TGGGC": 7,
+            "GAATG": 7,
+            "GGGGA": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 59,
+            "GAG": 35,
+            "GGA": 33,
+            "TGG": 31,
+            "CGG": 27
+        },
+        "k=4": {
+            "GGGG": 22,
+            "GAGG": 17,
+            "TGGG": 15,
+            "GGAG": 15,
+            "GGGA": 14
+        },
+        "k=5": {
+            "GGGAG": 9,
+            "GAGGA": 8,
+            "CGGGG": 7,
+            "GGGGT": 7,
+            "GGGGG": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 54,
+            "CCC": 41,
+            "AGG": 31,
+            "GAG": 28,
+            "GGA": 27
+        },
+        "k=4": {
+            "GGGG": 17,
+            "CCCC": 16,
+            "GGGC": 15,
+            "AGGG": 14,
+            "GGGA": 14
+        },
+        "k=5": {
+            "GAGGG": 7,
+            "GGGGC": 7,
+            "CCCCC": 7,
+            "GCTGG": 7,
+            "CTGGG": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 66,
+            "AGG": 47,
+            "CCC": 45,
+            "GAG": 43,
+            "GGA": 32
+        },
+        "k=4": {
+            "GGGG": 28,
+            "GGAG": 21,
+            "GAGG": 20,
+            "AGGG": 20,
+            "GGGA": 18
+        },
+        "k=5": {
+            "GGGAG": 12,
+            "AGGGG": 12,
+            "GGGGA": 11,
+            "GGAGG": 11,
+            "GTGGG": 8
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 47,
+            "CTG": 40,
+            "GGG": 38,
+            "CCT": 36,
+            "AGG": 34
+        },
+        "k=4": {
+            "CCCC": 22,
+            "CCTG": 18,
+            "TGCC": 17,
+            "CAGG": 16,
+            "CTGC": 15
+        },
+        "k=5": {
+            "CCCCC": 12,
+            "CTGCC": 10,
+            "CCTGG": 9,
+            "GGAGA": 8,
+            "CAGGG": 8
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 53,
+            "GGC": 45,
+            "CCC": 42,
+            "GCC": 40,
+            "CAG": 34
+        },
+        "k=4": {
+            "GGGG": 22,
+            "CCCC": 19,
+            "GGGC": 18,
+            "GGCC": 17,
+            "GGCG": 15
+        },
+        "k=5": {
+            "GGCGC": 8,
+            "GGGCC": 8,
+            "CCCCC": 8,
+            "GGCCC": 7,
+            "CCCGC": 7
+        }
+    },
+    {
+        "k=3": {
+            "TTT": 34,
+            "CCT": 30,
+            "GAG": 30,
+            "TCT": 29,
+            "TGT": 28
+        },
+        "k=4": {
+            "AGAG": 17,
+            "TTTT": 15,
+            "TCCT": 13,
+            "TGTG": 12,
+            "CATC": 12
+        },
+        "k=5": {
+            "GAGAG": 10,
+            "TTTTT": 9,
+            "ATCCT": 7,
+            "AGAGA": 7,
+            "CTGTG": 7
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 74,
+            "GGG": 43,
+            "GCC": 43,
+            "GGA": 38,
+            "CCT": 34
+        },
+        "k=4": {
+            "CCCC": 30,
+            "GGAG": 20,
+            "CCCT": 19,
+            "GCCC": 18,
+            "CCTC": 18
+        },
+        "k=5": {
+            "CCCTC": 12,
+            "GGAGC": 9,
+            "CCCCT": 9,
+            "GCCCC": 9,
+            "GGGAG": 8
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 43,
+            "TGG": 36,
+            "GGC": 35,
+            "CAG": 29,
+            "AGG": 27
+        },
+        "k=4": {
+            "TGGG": 16,
+            "GGGG": 14,
+            "GGGC": 14,
+            "GTGG": 13,
+            "GAAG": 12
+        },
+        "k=5": {
+            "TGGGA": 7,
+            "GGGGC": 6,
+            "GGAAG": 6,
+            "CTGGG": 6,
+            "CCAGT": 5
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 65,
+            "CGG": 43,
+            "GCG": 41,
+            "GGC": 37,
+            "GGA": 36
+        },
+        "k=4": {
+            "GGGG": 26,
+            "GCGG": 24,
+            "CGGG": 21,
+            "GGCG": 20,
+            "GGAG": 16
+        },
+        "k=5": {
+            "GGCGG": 16,
+            "GCGGG": 12,
+            "GGGCG": 11,
+            "GGGGG": 10,
+            "CGGGG": 9
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 49,
+            "GGG": 40,
+            "GCC": 40,
+            "GGC": 35,
+            "TCC": 34
+        },
+        "k=4": {
+            "CGCC": 18,
+            "TCCC": 17,
+            "GGGG": 16,
+            "CTCC": 16,
+            "CCGC": 16
+        },
+        "k=5": {
+            "CCCGC": 11,
+            "CCGCC": 10,
+            "CCCTC": 8,
+            "CTCCC": 8,
+            "CCTCC": 8
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 48,
+            "TGG": 39,
+            "CAG": 38,
+            "AGG": 31,
+            "CTG": 31
+        },
+        "k=4": {
+            "GGGT": 17,
+            "TGGG": 16,
+            "GGGG": 16,
+            "CTGG": 14,
+            "AGCC": 13
+        },
+        "k=5": {
+            "AGCCA": 8,
+            "CTGGG": 8,
+            "GGAGA": 7,
+            "TGGGT": 7,
+            "GGGTC": 7
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 81,
+            "GGG": 80,
+            "CGG": 68,
+            "GGC": 68,
+            "GCC": 65
+        },
+        "k=4": {
+            "GGGG": 46,
+            "CCCC": 41,
+            "CCGG": 40,
+            "GCCC": 40,
+            "CCCG": 40
+        },
+        "k=5": {
+            "CGGGG": 23,
+            "GGGGC": 23,
+            "CCCGG": 23,
+            "GGGGG": 23,
+            "GGCGC": 22
+        }
+    },
+    {
+        "k=3": {
+            "GCC": 29,
+            "CAG": 27,
+            "GGG": 27,
+            "CCT": 26,
+            "CCC": 26
+        },
+        "k=4": {
+            "CAGC": 12,
+            "AGCC": 11,
+            "TGGG": 11,
+            "GCCA": 10,
+            "AGGA": 9
+        },
+        "k=5": {
+            "CAGCC": 7,
+            "CCAGC": 5,
+            "CACCC": 4,
+            "GAGGA": 4,
+            "AGGAA": 4
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 62,
+            "GGG": 50,
+            "TCC": 45,
+            "CCT": 40,
+            "GCC": 33
+        },
+        "k=4": {
+            "CTCC": 22,
+            "CCCT": 19,
+            "TCCC": 19,
+            "CCCC": 17,
+            "CCTC": 17
+        },
+        "k=5": {
+            "CTCCC": 12,
+            "CCTCC": 10,
+            "CCCCG": 9,
+            "CCCGG": 8,
+            "CCCTC": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 61,
+            "CGC": 48,
+            "GCG": 47,
+            "AGG": 44,
+            "GGC": 42
+        },
+        "k=4": {
+            "GGGG": 29,
+            "GAGG": 28,
+            "GGAG": 27,
+            "CCGC": 23,
+            "GCGG": 22
+        },
+        "k=5": {
+            "GGAGG": 18,
+            "CCGCC": 15,
+            "GGGGG": 15,
+            "GCCGC": 14,
+            "AGGAG": 14
+        }
+    },
+    {
+        "k=3": {
+            "CTG": 43,
+            "TCT": 36,
+            "CCT": 36,
+            "CAG": 33,
+            "CTT": 31
+        },
+        "k=4": {
+            "CCTG": 20,
+            "CTCT": 14,
+            "TCTT": 13,
+            "CTGC": 13,
+            "CCAG": 12
+        },
+        "k=5": {
+            "TCCAG": 7,
+            "CCTGG": 7,
+            "CTCTT": 6,
+            "ACCTG": 6,
+            "TCTCT": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 48,
+            "CGC": 43,
+            "GCC": 41,
+            "GAG": 39,
+            "GGC": 38
+        },
+        "k=4": {
+            "GGAG": 24,
+            "GAGG": 23,
+            "GCCG": 22,
+            "CCGC": 18,
+            "GGGG": 16
+        },
+        "k=5": {
+            "GCCGC": 14,
+            "GGAGG": 14,
+            "GAGGA": 10,
+            "CCGCC": 9,
+            "AGGAG": 9
+        }
+    },
+    {
+        "k=3": {
+            "CCT": 39,
+            "CTC": 38,
+            "GCC": 34,
+            "CCC": 34,
+            "TCC": 31
+        },
+        "k=4": {
+            "CCTC": 23,
+            "CTCC": 21,
+            "CGGC": 16,
+            "GCCG": 14,
+            "TCCT": 12
+        },
+        "k=5": {
+            "CCTCC": 14,
+            "TCCTC": 9,
+            "GCGGC": 8,
+            "CTCCT": 7,
+            "CTCCC": 7
+        }
+    },
+    {
+        "k=3": {
+            "TTT": 39,
+            "TGG": 32,
+            "GTG": 30,
+            "CTG": 30,
+            "GGG": 29
+        },
+        "k=4": {
+            "TTTT": 20,
+            "GCTG": 13,
+            "TGGG": 13,
+            "GTGG": 12,
+            "TGCC": 12
+        },
+        "k=5": {
+            "TTTTT": 11,
+            "TCTTT": 7,
+            "AGCTG": 6,
+            "TGGGA": 6,
+            "GGTGG": 6
+        }
+    },
+    {
+        "k=3": {
+            "CAG": 34,
+            "AAA": 30,
+            "GAG": 29,
+            "CTG": 28,
+            "GGG": 26
+        },
+        "k=4": {
+            "AAAA": 16,
+            "CTGA": 13,
+            "GAGG": 12,
+            "GCTG": 11,
+            "CTTC": 11
         },
         "k=5": {
             "AAAAA": 7,
-            "GAAAA": 2,
-            "AAAAT": 2,
-            "AAATA": 2,
-            "ACATT": 2
+            "GGCAG": 6,
+            "GTGGG": 6,
+            "CTTCC": 6,
+            "GGACC": 5
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 55,
+            "TTT": 40,
+            "GTG": 33,
+            "AGG": 32,
+            "GAG": 30
+        },
+        "k=4": {
+            "GGGG": 21,
+            "TTTT": 18,
+            "AGGG": 16,
+            "GGAG": 14,
+            "GAGG": 14
+        },
+        "k=5": {
+            "TTTTT": 10,
+            "GAGGG": 10,
+            "GGAGG": 8,
+            "GGGGG": 8,
+            "GGGAG": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 74,
+            "CCC": 45,
+            "GGA": 40,
+            "GCG": 38,
+            "GAG": 37
+        },
+        "k=4": {
+            "CCCC": 22,
+            "GGGG": 21,
+            "GGGA": 21,
+            "AGGG": 20,
+            "GCGG": 20
+        },
+        "k=5": {
+            "GAGGG": 12,
+            "GCGGG": 10,
+            "AGGGG": 9,
+            "CTGGG": 9,
+            "GGGGA": 9
+        }
+    },
+    {
+        "k=3": {
+            "AGG": 41,
+            "GGG": 40,
+            "GGA": 36,
+            "GGC": 32,
+            "GAG": 29
+        },
+        "k=4": {
+            "GAGG": 16,
+            "GGGA": 15,
+            "AGGG": 14,
+            "GGAG": 13,
+            "CCCC": 13
+        },
+        "k=5": {
+            "GGAGG": 7,
+            "AAAAA": 6,
+            "AGGGC": 6,
+            "GCGGG": 6,
+            "CCCCC": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 100,
+            "GAG": 60,
+            "GGC": 57,
+            "GGA": 53,
+            "CGG": 50
+        },
+        "k=4": {
+            "GGGG": 43,
+            "GGAG": 37,
+            "GAGG": 33,
+            "GGGC": 28,
+            "GGCG": 26
+        },
+        "k=5": {
+            "GGAGG": 22,
+            "GGCGG": 18,
+            "AGGGG": 17,
+            "GAGGG": 16,
+            "GGGGA": 16
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 40,
+            "CCC": 36,
+            "AGG": 31,
+            "GGA": 31,
+            "GGC": 29
+        },
+        "k=4": {
+            "GGGA": 15,
+            "CCCC": 13,
+            "AGGG": 13,
+            "CCAG": 13,
+            "GCTG": 13
+        },
+        "k=5": {
+            "CCAGG": 8,
+            "GCGGC": 7,
+            "TGCTG": 7,
+            "GCTGC": 6,
+            "AGCGG": 6
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 44,
+            "CCT": 38,
+            "CTG": 36,
+            "CTC": 35,
+            "GGG": 33
+        },
+        "k=4": {
+            "CCTC": 16,
+            "CCCC": 16,
+            "CTCC": 15,
+            "CCTG": 15,
+            "CCCA": 13
+        },
+        "k=5": {
+            "CCTCC": 7,
+            "CCACC": 7,
+            "TTTTT": 7,
+            "CCCCC": 7,
+            "TCCTG": 6
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 92,
+            "GGG": 67,
+            "CTC": 50,
+            "TCC": 40,
+            "GAG": 36
+        },
+        "k=4": {
+            "CCCC": 52,
+            "GGGG": 29,
+            "CTCC": 24,
+            "TCCC": 22,
+            "CTCT": 21
+        },
+        "k=5": {
+            "CCCCC": 23,
+            "CTCTC": 16,
+            "CTCCC": 15,
+            "TCCCC": 13,
+            "CCCCG": 13
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 63,
+            "GCC": 45,
+            "GAG": 34,
+            "CCT": 33,
+            "CCG": 32
+        },
+        "k=4": {
+            "CCCC": 19,
+            "GCCC": 18,
+            "AGCC": 16,
+            "CCCA": 15,
+            "CCCT": 15
+        },
+        "k=5": {
+            "CCCAC": 8,
+            "GAGCC": 7,
+            "CCCTC": 7,
+            "CTCCC": 7,
+            "CTGCC": 7
+        }
+    },
+    {
+        "k=3": {
+            "GAG": 44,
+            "AGA": 42,
+            "AGG": 42,
+            "GGG": 41,
+            "CAG": 38
+        },
+        "k=4": {
+            "AGAG": 19,
+            "GAGA": 18,
+            "ACAG": 17,
+            "AGGA": 17,
+            "CAGA": 15
+        },
+        "k=5": {
+            "AGGAA": 10,
+            "CCTGG": 9,
+            "GAGAG": 9,
+            "GAGGA": 8,
+            "CAGAG": 7
+        }
+    },
+    {
+        "k=3": {
+            "AGG": 35,
+            "GGC": 33,
+            "GGG": 29,
+            "GAG": 27,
+            "GGA": 26
+        },
+        "k=4": {
+            "AAGG": 13,
+            "GAGG": 13,
+            "AGGC": 12,
+            "CGGC": 11,
+            "GGCT": 11
+        },
+        "k=5": {
+            "CCGGC": 5,
+            "AGGCG": 5,
+            "AGGCT": 5,
+            "AAAGG": 5,
+            "AAGGT": 5
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 60,
+            "CCG": 43,
+            "CGC": 40,
+            "GCC": 38,
+            "CGG": 35
+        },
+        "k=4": {
+            "CCCG": 22,
+            "CCGC": 22,
+            "CCCC": 19,
+            "GCCC": 19,
+            "CTCC": 18
+        },
+        "k=5": {
+            "CCCGC": 12,
+            "CCGCC": 11,
+            "CCTCC": 10,
+            "CGGCG": 8,
+            "CCCCG": 8
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 41,
+            "GGG": 41,
+            "CTG": 36,
+            "GCC": 30,
+            "CCG": 29
+        },
+        "k=4": {
+            "GCTG": 15,
+            "GGGG": 13,
+            "CCGG": 12,
+            "TCCC": 12,
+            "CCCG": 12
+        },
+        "k=5": {
+            "GGGAG": 7,
+            "TGCTG": 7,
+            "GGGCG": 7,
+            "GCGGG": 7,
+            "CCCGG": 7
+        }
+    },
+    {
+        "k=3": {
+            "GCG": 52,
+            "GGG": 50,
+            "GGC": 36,
+            "GTG": 36,
+            "CGC": 35
+        },
+        "k=4": {
+            "GGCG": 22,
+            "GCGC": 20,
+            "CGCG": 17,
+            "GGGC": 16,
+            "GGGG": 16
+        },
+        "k=5": {
+            "GGCGG": 11,
+            "GCGCG": 11,
+            "GGGCG": 10,
+            "GGGGC": 8,
+            "GTGTG": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 71,
+            "GGC": 54,
+            "GCG": 53,
+            "CGG": 51,
+            "GAG": 39
+        },
+        "k=4": {
+            "GCGG": 34,
+            "GGGG": 29,
+            "GGCG": 24,
+            "CGGG": 22,
+            "GGAG": 20
+        },
+        "k=5": {
+            "GGCGG": 18,
+            "GCGGG": 15,
+            "GCGGC": 12,
+            "GGGAG": 11,
+            "CGGGG": 11
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 66,
+            "TTT": 61,
+            "CTC": 50,
+            "TCT": 46,
+            "CGC": 40
+        },
+        "k=4": {
+            "TTTT": 44,
+            "TCTC": 28,
+            "CCGC": 26,
+            "CCCC": 26,
+            "CTCT": 25
+        },
+        "k=5": {
+            "TTTTT": 34,
+            "TCTCT": 18,
+            "CTCTC": 17,
+            "CCGCC": 15,
+            "CTCCC": 13
+        }
+    },
+    {
+        "k=3": {
+            "GAG": 71,
+            "AGA": 61,
+            "CCC": 36,
+            "AAA": 34,
+            "TTT": 32
+        },
+        "k=4": {
+            "GAGA": 51,
+            "AGAG": 45,
+            "TTTT": 19,
+            "GGAG": 18,
+            "CCCC": 18
+        },
+        "k=5": {
+            "GAGAG": 43,
+            "AGAGA": 39,
+            "GAGGG": 11,
+            "TTTTT": 11,
+            "GGGAG": 10
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 47,
+            "AGG": 33,
+            "GAG": 31,
+            "GCC": 29,
+            "CAG": 27
+        },
+        "k=4": {
+            "CCCC": 18,
+            "CCAG": 14,
+            "CCCA": 13,
+            "AGGT": 12,
+            "GCCC": 12
+        },
+        "k=5": {
+            "CCCCG": 8,
+            "CCCAG": 8,
+            "CTGGG": 7,
+            "CCGCC": 6,
+            "CGCCC": 6
+        }
+    },
+    {
+        "k=3": {
+            "GCC": 57,
+            "CCG": 47,
+            "GGC": 46,
+            "CCC": 43,
+            "CGC": 41
+        },
+        "k=4": {
+            "CGCC": 23,
+            "GCCG": 21,
+            "CGGC": 20,
+            "CCGC": 20,
+            "GCCC": 18
+        },
+        "k=5": {
+            "CCGCC": 14,
+            "GCCGC": 10,
+            "CGCCC": 10,
+            "CGGCG": 9,
+            "CGGCC": 9
+        }
+    },
+    {
+        "k=3": {
+            "GGC": 42,
+            "CGG": 37,
+            "GCG": 35,
+            "GCC": 34,
+            "GGG": 31
+        },
+        "k=4": {
+            "GCGG": 19,
+            "CGGC": 19,
+            "GGCG": 16,
+            "GGCC": 15,
+            "CGGG": 14
+        },
+        "k=5": {
+            "GCGGC": 10,
+            "GGCGG": 10,
+            "GCGGG": 8,
+            "CGGCG": 7,
+            "CGGGG": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 79,
+            "CCC": 71,
+            "TTT": 71,
+            "CGC": 70,
+            "GCC": 68
+        },
+        "k=4": {
+            "GGGG": 45,
+            "GCCC": 42,
+            "CCCG": 42,
+            "CGCG": 37,
+            "GCGC": 36
+        },
+        "k=5": {
+            "GCCCG": 26,
+            "GGGGG": 24,
+            "GGGCC": 23,
+            "CCCGC": 23,
+            "GCGCG": 23
+        }
+    },
+    {
+        "k=3": {
+            "GCC": 47,
+            "CCC": 46,
+            "CCG": 37,
+            "CGC": 31,
+            "GGC": 29
+        },
+        "k=4": {
+            "GCCG": 22,
+            "CCCC": 16,
+            "CGCC": 15,
+            "AGCC": 14,
+            "GCGC": 13
+        },
+        "k=5": {
+            "AGCCG": 9,
+            "GCCGG": 8,
+            "CGGAG": 7,
+            "ACCCC": 6,
+            "GCCGT": 6
+        }
+    },
+    {
+        "k=3": {
+            "GCC": 34,
+            "CCT": 32,
+            "CTG": 31,
+            "GGC": 29,
+            "TGG": 28
+        },
+        "k=4": {
+            "CCTG": 13,
+            "CTGG": 12,
+            "AAAA": 12,
+            "CCGC": 12,
+            "CTGC": 11
+        },
+        "k=5": {
+            "AAAAA": 8,
+            "GCCGC": 7,
+            "GAAGC": 5,
+            "TGGCC": 5,
+            "CAGCC": 5
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 35,
+            "CTG": 33,
+            "CAG": 33,
+            "AGG": 27,
+            "TCT": 27
+        },
+        "k=4": {
+            "CCCA": 15,
+            "CCAG": 12,
+            "CAGG": 12,
+            "TGCT": 11,
+            "CCCC": 11
+        },
+        "k=5": {
+            "CCCAG": 7,
+            "CCCTC": 6,
+            "GCCTG": 6,
+            "CCCCA": 6,
+            "CCAGG": 6
+        }
+    },
+    {
+        "k=3": {
+            "CAG": 33,
+            "CTG": 28,
+            "TTT": 26,
+            "AAA": 26,
+            "GCT": 25
+        },
+        "k=4": {
+            "CAGG": 12,
+            "TGTT": 11,
+            "TCAG": 10,
+            "GCTG": 10,
+            "TGCT": 10
+        },
+        "k=5": {
+            "CCAGG": 5,
+            "CAGGG": 5,
+            "TGTTC": 5,
+            "CATCT": 5,
+            "CTGCT": 5
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 43,
+            "GGG": 34,
+            "GCC": 32,
+            "CGG": 28,
+            "GGA": 26
+        },
+        "k=4": {
+            "GCCC": 17,
+            "GGAG": 13,
+            "CCGG": 12,
+            "CCCC": 12,
+            "CCCG": 12
+        },
+        "k=5": {
+            "CCCCG": 8,
+            "GGAGT": 7,
+            "CCGGG": 7,
+            "AGCAC": 6,
+            "AGACC": 6
+        }
+    },
+    {
+        "k=3": {
+            "AGG": 36,
+            "AAA": 31,
+            "TTC": 29,
+            "CTG": 28,
+            "CAG": 28
+        },
+        "k=4": {
+            "CAGG": 14,
+            "AGGA": 13,
+            "GGCT": 12,
+            "AAAA": 12,
+            "GGAG": 12
+        },
+        "k=5": {
+            "AGGAG": 8,
+            "CAGGA": 7,
+            "TTCTT": 7,
+            "TTCCT": 7,
+            "TCCTC": 7
+        }
+    },
+    {
+        "k=3": {
+            "AAA": 38,
+            "AAG": 32,
+            "CCA": 28,
+            "TCA": 27,
+            "GAA": 27
+        },
+        "k=4": {
+            "AAGA": 15,
+            "AAAA": 13,
+            "CCCA": 12,
+            "AGAA": 12,
+            "GAAA": 12
+        },
+        "k=5": {
+            "AAGAA": 8,
+            "AAAAA": 7,
+            "AGAAA": 6,
+            "ACTTG": 6,
+            "AAAGA": 5
+        }
+    },
+    {
+        "k=3": {
+            "AAA": 50,
+            "ACT": 30,
+            "TTT": 30,
+            "AGG": 28,
+            "CTT": 27
+        },
+        "k=4": {
+            "AAAA": 29,
+            "AAAT": 12,
+            "CAGG": 11,
+            "AGGA": 11,
+            "ACTT": 11
+        },
+        "k=5": {
+            "AAAAA": 17,
+            "AAAAT": 7,
+            "GGAGG": 6,
+            "ACTAA": 5,
+            "AAATA": 5
+        }
+    },
+    {
+        "k=3": {
+            "AAA": 35,
+            "CTG": 32,
+            "TTT": 31,
+            "AGA": 29,
+            "CAG": 26
+        },
+        "k=4": {
+            "TCTG": 15,
+            "TTTT": 14,
+            "CTGA": 13,
+            "CTCA": 12,
+            "AAAT": 11
+        },
+        "k=5": {
+            "TTTTT": 9,
+            "TTCTG": 8,
+            "TTTCT": 6,
+            "TCTGA": 6,
+            "CAGGA": 6
+        }
+    },
+    {
+        "k=3": {
+            "AAA": 47,
+            "TTT": 42,
+            "TCT": 38,
+            "TAA": 37,
+            "CTT": 35
+        },
+        "k=4": {
+            "TTAA": 17,
+            "TCTT": 16,
+            "TTCT": 16,
+            "AAAA": 16,
+            "AAGA": 15
+        },
+        "k=5": {
+            "TTTAA": 8,
+            "TTCTT": 7,
+            "CTTTT": 7,
+            "AAAGA": 7,
+            "TTAAT": 6
+        }
+    },
+    {
+        "k=3": {
+            "CAG": 35,
+            "TCA": 31,
+            "CTG": 27,
+            "CCC": 26,
+            "TTT": 26
+        },
+        "k=4": {
+            "TCAG": 15,
+            "CCCT": 12,
+            "TTCC": 10,
+            "AAAA": 10,
+            "CTCA": 10
+        },
+        "k=5": {
+            "CTCAG": 9,
+            "CCCCT": 5,
+            "CCCTG": 5,
+            "CTTTT": 5,
+            "TTCCC": 5
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 46,
+            "CCT": 39,
+            "CTG": 38,
+            "AGG": 36,
+            "GGC": 34
+        },
+        "k=4": {
+            "GGGG": 17,
+            "CCTG": 16,
+            "GGGC": 16,
+            "CTGC": 15,
+            "TCCT": 14
+        },
+        "k=5": {
+            "CTGCT": 8,
+            "GGGGC": 8,
+            "TGTCC": 6,
+            "GTCCC": 6,
+            "CCTAG": 6
+        }
+    },
+    {
+        "k=3": {
+            "CAG": 33,
+            "TGG": 29,
+            "CCT": 28,
+            "CCA": 28,
+            "AGA": 27
+        },
+        "k=4": {
+            "CCAG": 14,
+            "CAGG": 14,
+            "TGGA": 12,
+            "GGAG": 12,
+            "GAGC": 11
+        },
+        "k=5": {
+            "CCAGG": 8,
+            "CATGG": 6,
+            "TTCTT": 6,
+            "CAGGT": 6,
+            "CCTTG": 5
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 36,
+            "GGC": 35,
+            "CTG": 31,
+            "GCT": 29,
+            "GCG": 28
+        },
+        "k=4": {
+            "GGCT": 14,
+            "GCTG": 13,
+            "CTGC": 12,
+            "GGGG": 12,
+            "CCGG": 11
+        },
+        "k=5": {
+            "GGCTG": 7,
+            "CTGGG": 6,
+            "CGGCT": 5,
+            "AAACA": 5,
+            "TGGCC": 5
+        }
+    },
+    {
+        "k=3": {
+            "TTT": 64,
+            "AAA": 35,
+            "CTT": 30,
+            "TTC": 30,
+            "CCC": 27
+        },
+        "k=4": {
+            "TTTT": 32,
+            "TTTC": 20,
+            "TTCT": 15,
+            "ATTT": 13,
+            "TCTT": 12
+        },
+        "k=5": {
+            "TTTTC": 13,
+            "TTTTT": 13,
+            "ATTTT": 9,
+            "TTTCT": 7,
+            "TTCTT": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 68,
+            "GGC": 65,
+            "GCC": 47,
+            "CGG": 47,
+            "GCG": 47
+        },
+        "k=4": {
+            "GGGC": 29,
+            "GGCG": 26,
+            "GCGG": 23,
+            "GGGG": 20,
+            "CCGG": 20
+        },
+        "k=5": {
+            "GGGCG": 12,
+            "GGCGG": 12,
+            "GGGGC": 11,
+            "CCGGC": 9,
+            "GCGGG": 9
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 53,
+            "GCC": 45,
+            "GGG": 45,
+            "CGC": 43,
+            "GCG": 36
+        },
+        "k=4": {
+            "CGCC": 19,
+            "CCCC": 18,
+            "CAGC": 17,
+            "GCGC": 17,
+            "GCCC": 17
+        },
+        "k=5": {
+            "CAGCC": 9,
+            "GCGCC": 9,
+            "CGCCC": 9,
+            "CCCGG": 9,
+            "GGGCG": 7
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 52,
+            "GCC": 52,
+            "CGC": 44,
+            "GGC": 39,
+            "GCG": 37
+        },
+        "k=4": {
+            "CCGC": 21,
+            "CGCC": 19,
+            "GCCT": 18,
+            "GGCC": 17,
+            "CCCC": 16
+        },
+        "k=5": {
+            "CCCGC": 9,
+            "CCGCC": 8,
+            "CCCCA": 8,
+            "CCGCG": 8,
+            "CCCAG": 7
+        }
+    },
+    {
+        "k=3": {
+            "AGG": 54,
+            "GGG": 46,
+            "GGA": 44,
+            "CTG": 35,
+            "GAG": 34
+        },
+        "k=4": {
+            "AGGG": 20,
+            "GGAG": 20,
+            "CAGG": 19,
+            "AGGA": 18,
+            "GAGG": 16
+        },
+        "k=5": {
+            "GGAGG": 11,
+            "GCAGG": 9,
+            "CCAGG": 8,
+            "CAGGG": 8,
+            "CAGGA": 8
+        }
+    },
+    {
+        "k=3": {
+            "CTC": 43,
+            "GGA": 41,
+            "GAG": 40,
+            "AGG": 38,
+            "GGG": 37
+        },
+        "k=4": {
+            "CTCT": 19,
+            "GAGG": 17,
+            "GGAA": 17,
+            "AGAG": 16,
+            "AGGA": 16
+        },
+        "k=5": {
+            "AGGAA": 9,
+            "CTCTC": 8,
+            "CCCAG": 8,
+            "GGGAG": 8,
+            "AGAGG": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 49,
+            "TGG": 41,
+            "CTG": 34,
+            "GGC": 33,
+            "AGG": 32
+        },
+        "k=4": {
+            "TGGG": 19,
+            "GTGG": 16,
+            "GGAG": 15,
+            "GGCA": 15,
+            "CAGG": 14
+        },
+        "k=5": {
+            "GGGGC": 8,
+            "TGGGG": 8,
+            "AGGAG": 7,
+            "GGTGG": 7,
+            "GTGGG": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 65,
+            "TGG": 47,
+            "GGT": 36,
+            "CAG": 33,
+            "AGG": 33
+        },
+        "k=4": {
+            "GGGG": 28,
+            "TGGG": 24,
+            "GGGT": 19,
+            "CTGG": 18,
+            "GGTG": 17
+        },
+        "k=5": {
+            "TGGGG": 15,
+            "GGGGT": 11,
+            "CTGGG": 10,
+            "GGGGG": 8,
+            "GGGTG": 8
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 71,
+            "AGG": 41,
+            "GAG": 36,
+            "GCC": 32,
+            "GGA": 31
+        },
+        "k=4": {
+            "GGGG": 24,
+            "AGGG": 22,
+            "GGGC": 18,
+            "GGGA": 16,
+            "CGGG": 15
+        },
+        "k=5": {
+            "AGGGG": 12,
+            "GGGGC": 9,
+            "AAGGG": 8,
+            "GGGAG": 7,
+            "GGGGG": 7
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 47,
+            "GGG": 40,
+            "GGC": 34,
+            "CGC": 32,
+            "GGA": 30
+        },
+        "k=4": {
+            "CCCC": 18,
+            "GCGC": 16,
+            "CGGG": 15,
+            "GCCC": 14,
+            "GGGG": 14
+        },
+        "k=5": {
+            "CCCCT": 9,
+            "GCCCC": 7,
+            "GGCGC": 7,
+            "CCGCG": 6,
+            "CGCGC": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 59,
+            "CCC": 42,
+            "GGC": 37,
+            "TGG": 36,
+            "GAG": 35
+        },
+        "k=4": {
+            "GGGG": 25,
+            "GGAG": 20,
+            "CCCC": 19,
+            "TGGG": 18,
+            "GGGC": 17
+        },
+        "k=5": {
+            "AAAAA": 10,
+            "TGGAG": 9,
+            "TGGGG": 9,
+            "GGAGG": 8,
+            "GTGGG": 8
+        }
+    },
+    {
+        "k=3": {
+            "GCG": 76,
+            "CGG": 75,
+            "GGC": 75,
+            "GGG": 70,
+            "CCC": 66
+        },
+        "k=4": {
+            "GCGG": 45,
+            "CGGG": 43,
+            "GGGC": 43,
+            "GGCG": 42,
+            "CGCG": 34
+        },
+        "k=5": {
+            "CGGGC": 26,
+            "GCGGG": 25,
+            "GGGCG": 24,
+            "GGCGG": 23,
+            "CGCGG": 22
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 51,
+            "GAG": 43,
+            "AGG": 40,
+            "CCC": 35,
+            "GGA": 33
+        },
+        "k=4": {
+            "GAGG": 18,
+            "GGAG": 18,
+            "GGGA": 16,
+            "CAGG": 15,
+            "AGGG": 14
+        },
+        "k=5": {
+            "GGGAG": 9,
+            "GGAGG": 7,
+            "CTCCC": 7,
+            "CCCGG": 7,
+            "GGGGA": 6
+        }
+    },
+    {
+        "k=3": {
+            "GAG": 44,
+            "GGG": 44,
+            "AGG": 39,
+            "CCC": 37,
+            "GGA": 36
+        },
+        "k=4": {
+            "GAGG": 18,
+            "GGAG": 16,
+            "CAGG": 16,
+            "TCCC": 15,
+            "GGGA": 15
+        },
+        "k=5": {
+            "CTCAG": 8,
+            "AGGAG": 8,
+            "GGGAG": 7,
+            "GGAGG": 7,
+            "CCAGG": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 46,
+            "CTG": 37,
+            "GGC": 37,
+            "TGG": 33,
+            "CGG": 33
+        },
+        "k=4": {
+            "CTCC": 17,
+            "CTGG": 15,
+            "GGGC": 15,
+            "GGCC": 15,
+            "CGGG": 15
+        },
+        "k=5": {
+            "GGCCC": 9,
+            "CTCCT": 8,
+            "TCCTC": 8,
+            "CTGCT": 8,
+            "GGGGC": 7
+        }
+    },
+    {
+        "k=3": {
+            "TTT": 60,
+            "GGG": 46,
+            "CTG": 34,
+            "GCC": 33,
+            "CGC": 32
+        },
+        "k=4": {
+            "TTTT": 44,
+            "GCTG": 15,
+            "GGGG": 15,
+            "CGCC": 15,
+            "GGTC": 14
+        },
+        "k=5": {
+            "TTTTT": 36,
+            "CCGCC": 8,
+            "GGGGC": 7,
+            "CGGGG": 7,
+            "GCCGC": 7
+        }
+    },
+    {
+        "k=3": {
+            "CCA": 39,
+            "CCC": 39,
+            "CAG": 38,
+            "GGG": 34,
+            "CAC": 33
+        },
+        "k=4": {
+            "AAAA": 17,
+            "CAGG": 16,
+            "CCAC": 14,
+            "CACC": 14,
+            "CCCA": 14
+        },
+        "k=5": {
+            "AAAAA": 13,
+            "CCACA": 8,
+            "CACCC": 8,
+            "CAGCT": 8,
+            "CAGGG": 8
+        }
+    },
+    {
+        "k=3": {
+            "CCT": 39,
+            "TCC": 32,
+            "GGG": 32,
+            "TTC": 31,
+            "CTT": 29
+        },
+        "k=4": {
+            "CCTT": 15,
+            "TTCC": 13,
+            "CCCT": 13,
+            "GGGG": 13,
+            "TTTC": 13
+        },
+        "k=5": {
+            "TCCCT": 9,
+            "TTCCT": 6,
+            "CCTTC": 6,
+            "GGAGG": 6,
+            "GGGGG": 6
+        }
+    },
+    {
+        "k=3": {
+            "TTT": 71,
+            "TCT": 47,
+            "AAA": 41,
+            "CTC": 37,
+            "TCC": 37
+        },
+        "k=4": {
+            "TTTT": 39,
+            "AAAA": 23,
+            "CCTC": 18,
+            "TTTC": 16,
+            "CTCC": 16
+        },
+        "k=5": {
+            "TTTTT": 20,
+            "AAAAA": 15,
+            "TTTTC": 10,
+            "CCTCC": 10,
+            "TTAAA": 9
+        }
+    },
+    {
+        "k=3": {
+            "CTC": 61,
+            "TCT": 60,
+            "CTG": 49,
+            "CCC": 47,
+            "CCT": 46
+        },
+        "k=4": {
+            "CTCT": 36,
+            "TCTC": 35,
+            "CCTG": 22,
+            "CTGC": 19,
+            "GCCT": 16
+        },
+        "k=5": {
+            "TCTCT": 26,
+            "CTCTC": 19,
+            "CTGCC": 13,
+            "CTCTG": 12,
+            "GCCTG": 10
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 50,
+            "CAG": 36,
+            "AGG": 34,
+            "CTC": 34,
+            "AGA": 33
+        },
+        "k=4": {
+            "CCCC": 22,
+            "CCTC": 15,
+            "CTCC": 14,
+            "GGAG": 14,
+            "AGGG": 14
+        },
+        "k=5": {
+            "CCCTC": 8,
+            "TCCCC": 7,
+            "TGGAG": 7,
+            "CCCCC": 7,
+            "AGGGA": 7
+        }
+    },
+    {
+        "k=3": {
+            "CTG": 42,
+            "CCC": 40,
+            "CCT": 40,
+            "GGG": 36,
+            "TCT": 36
+        },
+        "k=4": {
+            "CTGG": 20,
+            "CCCT": 16,
+            "CTCT": 16,
+            "CCAG": 14,
+            "TCTC": 14
+        },
+        "k=5": {
+            "TCCCT": 9,
+            "GGAGG": 8,
+            "CCCAG": 8,
+            "CTCTG": 8,
+            "CTGGC": 7
+        }
+    },
+    {
+        "k=3": {
+            "CAG": 38,
+            "AGA": 33,
+            "CTG": 32,
+            "CCA": 32,
+            "GGG": 32
+        },
+        "k=4": {
+            "CAGA": 15,
+            "CCAG": 15,
+            "TGGG": 13,
+            "GAGG": 13,
+            "TCTG": 12
+        },
+        "k=5": {
+            "CCAGA": 10,
+            "CCCAG": 8,
+            "AGGAA": 6,
+            "CTGGG": 6,
+            "CCCCA": 6
+        }
+    },
+    {
+        "k=3": {
+            "CAC": 43,
+            "ACA": 41,
+            "TGG": 33,
+            "CTC": 32,
+            "CCC": 32
+        },
+        "k=4": {
+            "CACA": 30,
+            "ACAC": 29,
+            "CTGG": 16,
+            "TGGG": 15,
+            "AAAA": 15
+        },
+        "k=5": {
+            "ACACA": 26,
+            "CACAC": 26,
+            "AAAAA": 11,
+            "GGAGG": 8,
+            "GTGAG": 7
+        }
+    },
+    {
+        "k=3": {
+            "AGG": 45,
+            "GGG": 41,
+            "GGA": 39,
+            "GAG": 37,
+            "CTG": 35
+        },
+        "k=4": {
+            "GAGG": 20,
+            "AGGG": 16,
+            "CCTG": 15,
+            "GGAG": 15,
+            "AGGA": 15
+        },
+        "k=5": {
+            "AGGAA": 9,
+            "GGAGG": 9,
+            "GAGGA": 8,
+            "GGAAG": 8,
+            "TTCCT": 7
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 65,
+            "CCG": 50,
+            "GCC": 46,
+            "GGG": 41,
+            "TCC": 39
+        },
+        "k=4": {
+            "CCGC": 22,
+            "CCCC": 21,
+            "CCCG": 20,
+            "GCCC": 20,
+            "CTCC": 20
+        },
+        "k=5": {
+            "CCGCC": 14,
+            "TTTTT": 12,
+            "CCTCC": 10,
+            "GCCCC": 9,
+            "CCCGG": 9
+        }
+    },
+    {
+        "k=3": {
+            "CAC": 52,
+            "CCC": 43,
+            "ACA": 32,
+            "GGG": 28,
+            "CCA": 27
+        },
+        "k=4": {
+            "CACA": 24,
+            "ACAC": 22,
+            "CCCC": 21,
+            "CCAC": 14,
+            "CCCA": 12
+        },
+        "k=5": {
+            "ACACA": 19,
+            "CACAC": 19,
+            "CCCCA": 8,
+            "CCCCC": 7,
+            "CGCCC": 6
+        }
+    },
+    {
+        "k=3": {
+            "GTG": 50,
+            "GGG": 42,
+            "CCC": 31,
+            "TGT": 30,
+            "GGC": 27
+        },
+        "k=4": {
+            "TGTG": 23,
+            "GTGT": 22,
+            "GGGG": 19,
+            "GTGG": 13,
+            "CCCC": 12
+        },
+        "k=5": {
+            "GTGTG": 19,
+            "TGTGT": 18,
+            "GGGGG": 7,
+            "GGTGG": 6,
+            "GGGGA": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 47,
+            "CCC": 32,
+            "CTT": 28,
+            "TGG": 28,
+            "GGA": 28
+        },
+        "k=4": {
+            "GGGG": 17,
+            "GCTG": 13,
+            "GGGC": 12,
+            "CTGG": 12,
+            "TGGG": 12
+        },
+        "k=5": {
+            "GGTCC": 8,
+            "CCTTG": 7,
+            "CTGGG": 7,
+            "TGGGG": 7,
+            "CCACC": 6
+        }
+    },
+    {
+        "k=3": {
+            "TTT": 41,
+            "GGG": 31,
+            "TGG": 29,
+            "TTG": 26,
+            "AGG": 25
+        },
+        "k=4": {
+            "TTTT": 18,
+            "GTGG": 12,
+            "TTGT": 12,
+            "GGGG": 11,
+            "TGGT": 10
+        },
+        "k=5": {
+            "TTTTT": 10,
+            "TGAGG": 6,
+            "TGTGG": 6,
+            "AAAGT": 6,
+            "GTGGG": 5
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 49,
+            "GGG": 41,
+            "GGA": 34,
+            "GAG": 33,
+            "GCC": 33
+        },
+        "k=4": {
+            "GGAG": 15,
+            "GGGA": 14,
+            "CCCC": 14,
+            "CCCT": 14,
+            "CCTG": 14
+        },
+        "k=5": {
+            "AGGAG": 7,
+            "GAGGA": 7,
+            "GGGTC": 7,
+            "CCTGG": 7,
+            "GGAGC": 6
+        }
+    },
+    {
+        "k=3": {
+            "AGA": 32,
+            "GGG": 31,
+            "TTG": 30,
+            "CCT": 29,
+            "CTG": 29
+        },
+        "k=4": {
+            "CAGA": 15,
+            "GAAG": 14,
+            "GTTT": 13,
+            "TGGG": 12,
+            "GGGA": 12
+        },
+        "k=5": {
+            "AGGGA": 7,
+            "GGGAG": 7,
+            "CAGAG": 7,
+            "TGTTT": 6,
+            "CCTGC": 5
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 40,
+            "CCC": 38,
+            "TTT": 33,
+            "GAG": 33,
+            "TCC": 32
+        },
+        "k=4": {
+            "TTTT": 19,
+            "TGGG": 18,
+            "GGGA": 15,
+            "CCCC": 15,
+            "TGAG": 15
+        },
+        "k=5": {
+            "TTTTT": 15,
+            "CTGGG": 9,
+            "CTGAG": 9,
+            "GGGAG": 7,
+            "TGGGA": 6
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 36,
+            "CTC": 34,
+            "GCG": 32,
+            "CCT": 31,
+            "CGC": 30
+        },
+        "k=4": {
+            "CCTC": 16,
+            "GCGC": 14,
+            "CTCC": 12,
+            "CCCC": 11,
+            "CCCT": 11
+        },
+        "k=5": {
+            "GCGCG": 8,
+            "CCTCC": 7,
+            "GCCTC": 6,
+            "CTCCT": 6,
+            "AAATA": 5
+        }
+    },
+    {
+        "k=3": {
+            "CAG": 48,
+            "GGG": 38,
+            "AGG": 37,
+            "AGA": 36,
+            "CCC": 34
+        },
+        "k=4": {
+            "AGAG": 17,
+            "AGGG": 17,
+            "CAGG": 16,
+            "ACAG": 15,
+            "CCAG": 14
+        },
+        "k=5": {
+            "GCCCT": 9,
+            "AGGGG": 9,
+            "CCCAG": 8,
+            "CAGAG": 8,
+            "GCAGG": 8
+        }
+    },
+    {
+        "k=3": {
+            "CGG": 74,
+            "GGC": 74,
+            "GGG": 70,
+            "GCC": 69,
+            "CCG": 69
+        },
+        "k=4": {
+            "CGGC": 39,
+            "GGCC": 38,
+            "GCGG": 37,
+            "CCGG": 37,
+            "GGCG": 36
+        },
+        "k=5": {
+            "GCGGC": 25,
+            "CCGGG": 23,
+            "ATAAT": 22,
+            "AATAA": 21,
+            "GCCGG": 20
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 57,
+            "CCT": 42,
+            "CTG": 41,
+            "CCC": 39,
+            "TGG": 37
+        },
+        "k=4": {
+            "GGGG": 22,
+            "TGGG": 20,
+            "CCTG": 18,
+            "CAGG": 17,
+            "CCTC": 17
+        },
+        "k=5": {
+            "TGGGG": 10,
+            "GGGGA": 9,
+            "TCCTC": 9,
+            "GGGAG": 8,
+            "GCCAG": 8
+        }
+    },
+    {
+        "k=3": {
+            "TTT": 50,
+            "CCC": 35,
+            "CGC": 29,
+            "GCC": 25,
+            "CCT": 24
+        },
+        "k=4": {
+            "TTTT": 28,
+            "GCGC": 12,
+            "TTTA": 11,
+            "CCTC": 10,
+            "TCCC": 10
+        },
+        "k=5": {
+            "TTTTT": 17,
+            "TTTTA": 8,
+            "ATTTT": 7,
+            "CGGCC": 6,
+            "CCCGC": 6
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 44,
+            "TCC": 41,
+            "GGG": 34,
+            "CTC": 34,
+            "CCT": 31
+        },
+        "k=4": {
+            "CTCC": 23,
+            "TCCC": 15,
+            "CCCC": 14,
+            "CCCT": 13,
+            "CTTC": 13
+        },
+        "k=5": {
+            "CTCCA": 8,
+            "CCTCC": 8,
+            "CTCCC": 8,
+            "TCTCC": 7,
+            "CCGGG": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 70,
+            "GAG": 52,
+            "AGG": 50,
+            "GGA": 44,
+            "TGG": 35
+        },
+        "k=4": {
+            "GGAG": 27,
+            "GAGG": 24,
+            "GGGG": 23,
+            "TGGG": 21,
+            "GGGA": 21
+        },
+        "k=5": {
+            "GGAGG": 16,
+            "GGGAG": 15,
+            "CTGGG": 11,
+            "TGGGG": 10,
+            "GGGGC": 9
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 80,
+            "GGC": 48,
+            "GCG": 44,
+            "GCC": 43,
+            "CGG": 40
+        },
+        "k=4": {
+            "GGGG": 40,
+            "GCGG": 21,
+            "GGCG": 20,
+            "CGGG": 20,
+            "GGCC": 19
+        },
+        "k=5": {
+            "GGGGG": 14,
+            "GGCGG": 12,
+            "GGGGC": 12,
+            "AGGGG": 11,
+            "GCGGC": 11
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 90,
+            "GCG": 56,
+            "CGC": 47,
+            "GGC": 41,
+            "GCC": 39
+        },
+        "k=4": {
+            "GGGG": 51,
+            "CGCG": 28,
+            "GCGC": 26,
+            "GGGC": 19,
+            "GCGG": 19
+        },
+        "k=5": {
+            "GGGGG": 28,
+            "GCGCG": 19,
+            "CGCGC": 17,
+            "GGGGC": 12,
+            "GCGGG": 10
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 38,
+            "TTT": 31,
+            "GTG": 30,
+            "CAG": 29,
+            "TGT": 29
+        },
+        "k=4": {
+            "TGTG": 17,
+            "CCCA": 15,
+            "TCCC": 13,
+            "CCTG": 12,
+            "CCCT": 12
+        },
+        "k=5": {
+            "TGTGT": 7,
+            "CAGGG": 7,
+            "CCCAG": 7,
+            "GGCTC": 6,
+            "TCCCT": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 44,
+            "TGG": 36,
+            "AGG": 36,
+            "CAG": 34,
+            "CTG": 33
+        },
+        "k=4": {
+            "GGGG": 18,
+            "CTGG": 17,
+            "GGAG": 16,
+            "CAGG": 15,
+            "TGGA": 13
+        },
+        "k=5": {
+            "CTGGA": 10,
+            "GGGGA": 8,
+            "GGAGG": 7,
+            "CCAGG": 7,
+            "GGGAG": 7
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 35,
+            "CCC": 34,
+            "GAG": 31,
+            "GGA": 27,
+            "GGC": 27
+        },
+        "k=4": {
+            "GGGG": 14,
+            "CCCC": 12,
+            "GGGC": 12,
+            "CAGA": 11,
+            "GGAG": 11
+        },
+        "k=5": {
+            "CAGAG": 7,
+            "GAGGG": 6,
+            "CCCCT": 6,
+            "CGGGG": 6,
+            "TTTGA": 6
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 46,
+            "GGG": 38,
+            "GCC": 31,
+            "GGC": 30,
+            "CCT": 29
+        },
+        "k=4": {
+            "CCCC": 17,
+            "GGCC": 15,
+            "CTCC": 13,
+            "GCCC": 13,
+            "GGGC": 12
+        },
+        "k=5": {
+            "CCCGG": 7,
+            "CGGCC": 7,
+            "GCTCC": 6,
+            "GGGCC": 6,
+            "CTCCC": 6
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 94,
+            "CCC": 57,
+            "GGC": 56,
+            "CGG": 53,
+            "GCC": 52
+        },
+        "k=4": {
+            "GGGG": 33,
+            "CGGG": 32,
+            "GGGC": 29,
+            "GCGG": 24,
+            "GCCG": 21
+        },
+        "k=5": {
+            "CGGGG": 14,
+            "GCGGG": 12,
+            "CAGGG": 12,
+            "GGCCG": 12,
+            "CCGGG": 12
+        }
+    },
+    {
+        "k=3": {
+            "CGC": 81,
+            "GCG": 76,
+            "CCC": 75,
+            "GCC": 69,
+            "CCG": 68
+        },
+        "k=4": {
+            "GCGC": 47,
+            "GCCC": 42,
+            "CGCC": 42,
+            "CCCG": 41,
+            "GGCG": 38
+        },
+        "k=5": {
+            "CGCCC": 27,
+            "CGCGC": 24,
+            "GGCGC": 23,
+            "GCGCC": 23,
+            "GCGCG": 23
+        }
+    },
+    {
+        "k=3": {
+            "GGC": 73,
+            "GCG": 73,
+            "CGG": 72,
+            "CGC": 64,
+            "CCG": 64
+        },
+        "k=4": {
+            "GGCC": 38,
+            "CGCG": 38,
+            "GCGG": 38,
+            "GGGC": 37,
+            "CGGG": 36
+        },
+        "k=5": {
+            "CGCGG": 23,
+            "GGCCG": 21,
+            "GGCGC": 20,
+            "TATTT": 20,
+            "CCGCG": 20
+        }
+    },
+    {
+        "k=3": {
+            "CGC": 71,
+            "ATA": 71,
+            "CCG": 67,
+            "GCG": 66,
+            "GCC": 66
+        },
+        "k=4": {
+            "ATAT": 45,
+            "CCGC": 37,
+            "TATA": 37,
+            "CGCG": 36,
+            "GCCC": 35
+        },
+        "k=5": {
+            "TATAT": 28,
+            "ATATA": 24,
+            "CGCGG": 21,
+            "CCGCC": 21,
+            "GGCGC": 20
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 79,
+            "GGC": 72,
+            "CCC": 72,
+            "CGG": 71,
+            "GCG": 67
+        },
+        "k=4": {
+            "GGGG": 46,
+            "CCCC": 41,
+            "GCGG": 39,
+            "CGGC": 39,
+            "GGCC": 36
+        },
+        "k=5": {
+            "CCCCC": 24,
+            "GGGGC": 23,
+            "GCGGC": 23,
+            "GGGGG": 23,
+            "CGGGG": 22
+        }
+    },
+    {
+        "k=3": {
+            "GCC": 76,
+            "CCG": 76,
+            "CGC": 71,
+            "CCC": 68,
+            "TAT": 66
+        },
+        "k=4": {
+            "CGCC": 45,
+            "GCCC": 40,
+            "CCCG": 40,
+            "CCGC": 40,
+            "ATAT": 38
+        },
+        "k=5": {
+            "CGCCC": 26,
+            "CCGCC": 25,
+            "GCCCG": 23,
+            "CGGGC": 21,
+            "CCCGC": 20
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 82,
+            "GGC": 69,
+            "GCC": 69,
+            "CCG": 68,
+            "CGG": 67
+        },
+        "k=4": {
+            "GGGG": 44,
+            "CGGG": 38,
+            "GGGC": 38,
+            "GGCC": 38,
+            "TTAA": 38
+        },
+        "k=5": {
+            "TTAAA": 26,
+            "GGGGG": 25,
+            "ATTAA": 24,
+            "GCGGG": 22,
+            "GGGCC": 22
+        }
+    },
+    {
+        "k=3": {
+            "CGG": 76,
+            "GGC": 75,
+            "CCC": 73,
+            "TAT": 66,
+            "GCG": 65
+        },
+        "k=4": {
+            "CGGC": 46,
+            "CCCC": 40,
+            "CCGG": 40,
+            "GGCG": 40,
+            "TATT": 39
+        },
+        "k=5": {
+            "CGGCG": 25,
+            "CCGGC": 25,
+            "GGCGG": 22,
+            "GCCGG": 22,
+            "TATTT": 22
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 90,
+            "CCC": 77,
+            "CCG": 67,
+            "GCC": 66,
+            "TTT": 66
+        },
+        "k=4": {
+            "GGGG": 51,
+            "CCCC": 39,
+            "CCCG": 38,
+            "CGGG": 38,
+            "GGGC": 38
+        },
+        "k=5": {
+            "GGGGG": 31,
+            "GGGCC": 23,
+            "CCCCC": 22,
+            "CCGGG": 22,
+            "TAATT": 22
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 85,
+            "GGC": 73,
+            "CGG": 72,
+            "GCG": 69,
+            "GCC": 62
+        },
+        "k=4": {
+            "GGGG": 45,
+            "GCGG": 40,
+            "CGGG": 40,
+            "GGGC": 40,
+            "GGCG": 37
+        },
+        "k=5": {
+            "GGGGG": 26,
+            "GGGCC": 22,
+            "GCCCG": 22,
+            "GCGGC": 21,
+            "CGGGC": 21
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 72,
+            "CGC": 69,
+            "GCG": 68,
+            "TAT": 68,
+            "CCG": 66
+        },
+        "k=4": {
+            "ATAT": 40,
+            "GCCC": 37,
+            "CCCG": 37,
+            "CCGC": 35,
+            "CGCC": 35
+        },
+        "k=5": {
+            "TATAT": 21,
+            "GCCCG": 20,
+            "CGGCG": 20,
+            "TATTT": 20,
+            "ATATT": 20
+        }
+    },
+    {
+        "k=3": {
+            "GCG": 72,
+            "CGG": 71,
+            "GGC": 71,
+            "CGC": 71,
+            "TTT": 71
+        },
+        "k=4": {
+            "GCCG": 41,
+            "TATA": 39,
+            "CGGG": 37,
+            "GGGC": 37,
+            "TTTT": 37
+        },
+        "k=5": {
+            "CGCCG": 23,
+            "GGCGC": 22,
+            "CGCGG": 22,
+            "GCCGC": 22,
+            "GGGCC": 21
+        }
+    },
+    {
+        "k=3": {
+            "GCG": 76,
+            "CGC": 73,
+            "GGG": 72,
+            "CCC": 70,
+            "CGG": 66
+        },
+        "k=4": {
+            "CGCG": 44,
+            "GCGC": 42,
+            "CCCG": 37,
+            "CGGG": 37,
+            "GGGC": 37
+        },
+        "k=5": {
+            "CGCGC": 28,
+            "GCGCG": 26,
+            "GGCCC": 23,
+            "TAAAT": 21,
+            "CGGGC": 20
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 81,
+            "CCC": 74,
+            "CGG": 71,
+            "GGC": 71,
+            "CCG": 70
+        },
+        "k=4": {
+            "GGGG": 45,
+            "CCCC": 45,
+            "CCGG": 42,
+            "GCCG": 41,
+            "GGCC": 37
+        },
+        "k=5": {
+            "CCCCC": 29,
+            "CGGGG": 25,
+            "GGGGC": 25,
+            "GGCCG": 23,
+            "GCCGG": 23
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 75,
+            "CCC": 74,
+            "GCG": 68,
+            "CGG": 67,
+            "GGC": 67
+        },
+        "k=4": {
+            "CCCC": 42,
+            "GGGG": 39,
+            "CGGG": 36,
+            "GGGC": 36,
+            "GGCG": 36
+        },
+        "k=5": {
+            "CCCCC": 24,
+            "GCGGG": 22,
+            "CGGGG": 22,
+            "GGGGC": 22,
+            "GGCGC": 22
+        }
+    },
+    {
+        "k=3": {
+            "CGC": 74,
+            "CCC": 71,
+            "GCC": 70,
+            "GCG": 69,
+            "CCG": 69
+        },
+        "k=4": {
+            "GCGC": 41,
+            "CGCG": 40,
+            "GGCC": 36,
+            "CCGG": 36,
+            "CCCC": 36
+        },
+        "k=5": {
+            "GCGCG": 25,
+            "CGCGC": 24,
+            "GGCCC": 22,
+            "CCGGC": 22,
+            "CCCGG": 22
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 81,
+            "CGG": 79,
+            "GGC": 79,
+            "GCG": 73,
+            "ATT": 64
+        },
+        "k=4": {
+            "GGCG": 47,
+            "GCGG": 45,
+            "GGGG": 42,
+            "CGGC": 40,
+            "ATTA": 40
+        },
+        "k=5": {
+            "GGCGG": 28,
+            "GGGCG": 26,
+            "GGGGG": 23,
+            "GCGGC": 23,
+            "GCGGG": 22
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 79,
+            "CCC": 74,
+            "AAA": 74,
+            "CGC": 69,
+            "GCG": 68
+        },
+        "k=4": {
+            "GGGG": 45,
+            "AAAA": 40,
+            "CCCC": 38,
+            "CCGC": 37,
+            "GCGG": 36
+        },
+        "k=5": {
+            "CGCGG": 23,
+            "GGGGG": 23,
+            "TAAAA": 23,
+            "CCCGC": 22,
+            "CGGGG": 22
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 84,
+            "CGC": 71,
+            "GCC": 69,
+            "CCG": 69,
+            "GCG": 66
+        },
+        "k=4": {
+            "GGGG": 44,
+            "GCCG": 42,
+            "CGGG": 40,
+            "GGGC": 40,
+            "CGCC": 37
+        },
+        "k=5": {
+            "CGGGG": 24,
+            "GGGGC": 24,
+            "GCCGC": 23,
+            "GGGCG": 22,
+            "CGCCG": 21
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 89,
+            "CGC": 75,
+            "GCG": 71,
+            "GCC": 65,
+            "CCG": 65
+        },
+        "k=4": {
+            "CCCC": 52,
+            "GCGC": 45,
+            "CGCG": 43,
+            "GCCC": 37,
+            "CCCG": 37
+        },
+        "k=5": {
+            "CCCCC": 34,
+            "CGCGC": 28,
+            "GCGCG": 27,
+            "CGCCC": 21,
+            "CCCGG": 20
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 74,
+            "CGG": 72,
+            "GGC": 72,
+            "GCG": 69,
+            "GCC": 66
+        },
+        "k=4": {
+            "GGGG": 41,
+            "CGGC": 39,
+            "GCGG": 38,
+            "GCCC": 37,
+            "CCCG": 37
+        },
+        "k=5": {
+            "GGGGG": 24,
+            "GGCCC": 22,
+            "CGGCC": 21,
+            "CCGGC": 21,
+            "GCGGG": 21
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 76,
+            "CGG": 75,
+            "GGC": 75,
+            "GCG": 75,
+            "CCG": 68
+        },
+        "k=4": {
+            "GCCG": 43,
+            "CGGG": 42,
+            "GGGC": 42,
+            "GCGG": 42,
+            "GGCG": 38
+        },
+        "k=5": {
+            "GGCCG": 24,
+            "CGGGC": 24,
+            "GCCGC": 23,
+            "CGCGG": 23,
+            "GGGCG": 23
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 76,
+            "GGG": 74,
+            "TTT": 73,
+            "GCC": 71,
+            "CCG": 71
+        },
+        "k=4": {
+            "TATT": 46,
+            "GGGG": 42,
+            "TTTT": 42,
+            "TTAT": 39,
+            "GCCC": 38
+        },
+        "k=5": {
+            "TATTA": 27,
+            "TTATT": 27,
+            "GGGGG": 26,
+            "CCCGG": 24,
+            "TTTTT": 22
+        }
+    },
+    {
+        "k=3": {
+            "GCG": 80,
+            "CGG": 72,
+            "GGC": 72,
+            "CGC": 70,
+            "GGG": 67
+        },
+        "k=4": {
+            "GCGC": 43,
+            "GGCG": 43,
+            "GCCC": 38,
+            "CCCG": 38,
+            "GCGG": 37
+        },
+        "k=5": {
+            "GGCGC": 26,
+            "CGGCG": 25,
+            "CGCCC": 23,
+            "CCCGG": 23,
+            "GCGCC": 22
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 77,
+            "CGG": 72,
+            "GGC": 72,
+            "CCG": 68,
+            "GCG": 67
+        },
+        "k=4": {
+            "CGGG": 42,
+            "GGGC": 42,
+            "GGCC": 41,
+            "CCGG": 39,
+            "CGCG": 36
+        },
+        "k=5": {
+            "GGGCC": 26,
+            "CCCGG": 23,
+            "CCGGG": 22,
+            "CGGGG": 21,
+            "GGGGC": 21
+        }
+    },
+    {
+        "k=3": {
+            "GCC": 72,
+            "CCC": 72,
+            "CCG": 71,
+            "CGC": 69,
+            "GGC": 68
+        },
+        "k=4": {
+            "CCGC": 40,
+            "GGCC": 37,
+            "TTAT": 37,
+            "GCGG": 36,
+            "GCCG": 36
+        },
+        "k=5": {
+            "CCGCG": 22,
+            "GCGGC": 21,
+            "CCCGC": 21,
+            "GGCGG": 20,
+            "CGGCC": 20
+        }
+    },
+    {
+        "k=3": {
+            "CGC": 77,
+            "GCG": 77,
+            "CCC": 72,
+            "TAT": 69,
+            "GCC": 67
+        },
+        "k=4": {
+            "CCCC": 41,
+            "CGCC": 40,
+            "GGCG": 40,
+            "GCGC": 39,
+            "CCGC": 37
+        },
+        "k=5": {
+            "GCGGC": 27,
+            "CCCCC": 26,
+            "CGCCG": 25,
+            "CCGGG": 22,
+            "GGCGC": 22
+        }
+    },
+    {
+        "k=3": {
+            "CCG": 77,
+            "GCC": 77,
+            "CGC": 73,
+            "CCC": 67,
+            "CGG": 66
+        },
+        "k=4": {
+            "CCGC": 42,
+            "GCCG": 41,
+            "TATA": 40,
+            "GGCC": 39,
+            "CGCC": 38
+        },
+        "k=5": {
+            "GCCGC": 23,
+            "CCGCG": 22,
+            "CGCCG": 22,
+            "TATAT": 22,
+            "CGCGG": 20
+        }
+    },
+    {
+        "k=3": {
+            "GCG": 79,
+            "CCC": 76,
+            "CGC": 72,
+            "CGG": 69,
+            "GGC": 69
+        },
+        "k=4": {
+            "CCCC": 43,
+            "GGCG": 42,
+            "GCGC": 40,
+            "GCGG": 39,
+            "CGGC": 37
+        },
+        "k=5": {
+            "CCCCC": 23,
+            "GGCGG": 23,
+            "GCGGC": 23,
+            "CGGCG": 22,
+            "CGCGC": 21
+        }
+    },
+    {
+        "k=3": {
+            "GCG": 82,
+            "CGC": 75,
+            "CCC": 69,
+            "CGG": 69,
+            "GGC": 69
+        },
+        "k=4": {
+            "CGCG": 42,
+            "GCGC": 41,
+            "GCGG": 41,
+            "GGCG": 40,
+            "GCCC": 38
+        },
+        "k=5": {
+            "CCCGC": 23,
+            "GGGCG": 23,
+            "CCGCG": 22,
+            "CGCGC": 22,
+            "GCGCC": 21
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 83,
+            "CGC": 71,
+            "GCG": 70,
+            "TAT": 69,
+            "CGG": 67
+        },
+        "k=4": {
+            "CCCC": 44,
+            "GCGC": 42,
+            "GCCC": 39,
+            "CCCG": 39,
+            "CCGG": 38
+        },
+        "k=5": {
+            "GCCCC": 24,
+            "CCCCG": 24,
+            "GGCGC": 23,
+            "CCCGG": 23,
+            "TATTA": 22
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 87,
+            "CCG": 69,
+            "GCC": 69,
+            "CCC": 68,
+            "CGG": 68
+        },
+        "k=4": {
+            "GGGG": 53,
+            "CCGG": 40,
+            "GCCC": 37,
+            "TATA": 37,
+            "CCCG": 36
+        },
+        "k=5": {
+            "GGGGG": 29,
+            "CGGGG": 24,
+            "GGGGC": 24,
+            "TAAAT": 23,
+            "TATAT": 23
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 78,
+            "CCC": 74,
+            "TTT": 74,
+            "CGG": 69,
+            "GGC": 69
+        },
+        "k=4": {
+            "CGGG": 41,
+            "GGGC": 41,
+            "GGCG": 40,
+            "CGCC": 39,
+            "TTTA": 38
+        },
+        "k=5": {
+            "GGGCG": 26,
+            "GGCGG": 26,
+            "CGGGC": 23,
+            "GCGGG": 22,
+            "CGCCC": 22
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 76,
+            "GCG": 73,
+            "CGG": 72,
+            "GGC": 72,
+            "GGG": 69
+        },
+        "k=4": {
+            "CCCC": 47,
+            "GGCG": 40,
+            "GCGG": 39,
+            "CGGG": 37,
+            "GGGC": 37
+        },
+        "k=5": {
+            "CCCCC": 28,
+            "CGGCG": 21,
+            "GGCGG": 21,
+            "CGGGC": 20,
+            "GCGGC": 20
+        }
+    },
+    {
+        "k=3": {
+            "CGC": 81,
+            "GCG": 76,
+            "GGG": 73,
+            "GCC": 67,
+            "AAA": 67
+        },
+        "k=4": {
+            "CGCG": 45,
+            "GCGC": 44,
+            "TTTT": 39,
+            "CCGC": 37,
+            "GGGG": 37
+        },
+        "k=5": {
+            "GCGCG": 26,
+            "CGCGC": 25,
+            "TTTTT": 25,
+            "TATAT": 22,
+            "ATATA": 22
+        }
+    },
+    {
+        "k=3": {
+            "AAA": 84,
+            "CGC": 80,
+            "CCG": 77,
+            "GCC": 77,
+            "GCG": 72
+        },
+        "k=4": {
+            "AAAA": 51,
+            "GCCG": 45,
+            "CCGC": 43,
+            "CGCC": 43,
+            "CGGC": 41
+        },
+        "k=5": {
+            "AAAAA": 32,
+            "GCCGC": 26,
+            "CGCCG": 26,
+            "CCGCG": 25,
+            "GCGCC": 25
+        }
+    },
+    {
+        "k=3": {
+            "GGG": 79,
+            "CCC": 71,
+            "GCG": 71,
+            "CGG": 69,
+            "GGC": 68
+        },
+        "k=4": {
+            "GGGG": 43,
+            "GCGC": 42,
+            "CCCC": 41,
+            "CCGG": 40,
+            "CGGG": 36
+        },
+        "k=5": {
+            "CCCCC": 26,
+            "CGCGC": 25,
+            "GCGCG": 24,
+            "CGGGG": 22,
+            "GGGGC": 22
+        }
+    },
+    {
+        "k=3": {
+            "CCC": 77,
+            "GCG": 77,
+            "CGC": 72,
+            "CGG": 70,
+            "GGC": 70
+        },
+        "k=4": {
+            "CCCC": 43,
+            "CGGC": 40,
+            "GGCG": 40,
+            "GCGG": 39,
+            "GCGC": 38
+        },
+        "k=5": {
+            "CCCCC": 23,
+            "CGGCG": 23,
+            "GGCGC": 23,
+            "CGCGG": 22,
+            "CGCCC": 21
+        }
+    },
+    {
+        "k=3": {
+            "GCG": 79,
+            "GGG": 77,
+            "GGC": 72,
+            "CGG": 72,
+            "CGC": 68
+        },
+        "k=4": {
+            "GGCG": 45,
+            "GGGC": 44,
+            "CGGG": 43,
+            "GCGG": 41,
+            "GCGC": 38
+        },
+        "k=5": {
+            "GGGCG": 28,
+            "GCGGG": 24,
+            "GGCGC": 23,
+            "CGGGG": 22,
+            "GGGGC": 22
         }
     }
 ]
