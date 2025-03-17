@@ -1,3 +1,15 @@
+"""
+compute_kmer.py
+
+This script computes the most common k-mers (substrings of length k) per sequence.
+It extracts k-mers of lengths k=3, k=4, and k=5 and identifies the top 5 most frequent.
+
+Functions:
+- extract_kmers(sequence, k): Extracts k-mers from a sequence.
+- compute_kmer_frequencies(sequences): Finds the top 5 k-mers for each sequence.
+- save_kmer_results(sequences): Saves the results as JSON.
+"""
+
 import json
 from collections import Counter
 from pkg.utils import paths
@@ -8,7 +20,7 @@ def extract_kmers(sequence, k):
 
     :param sequence: DNA sequence (string).
     :param k: Length of k-mer.
-    :return: List of k-mers.
+    :return: List of k-mers in the sequence.
     """
     return [sequence[i:i+k] for i in range(len(sequence) - k + 1)]
 
@@ -23,14 +35,14 @@ def compute_kmer_frequencies(sequences, k_values=(3, 4, 5)):
     all_results = []
 
     for seq in sequences:
-        sequence_kmer_results = {}  # Store results for this sequence
+        sequence_kmer_results = {}
 
         for k in k_values:
             kmer_counts = Counter(extract_kmers(seq, k))  # Count k-mers in this sequence
             top_kmers = dict(kmer_counts.most_common(5))  # Get top 5 most common k-mers
-            sequence_kmer_results[f"k={k}"] = top_kmers  # Store results
+            sequence_kmer_results[f"k={k}"] = top_kmers
 
-        all_results.append(sequence_kmer_results)  # Add to final results
+        all_results.append(sequence_kmer_results)  # Add results for this sequence
 
     return all_results
 
@@ -47,5 +59,3 @@ def save_kmer_results(sequences):
         json.dump(kmer_results, f, indent=4)
 
     print(f"\nK-mer frequencies saved to {paths.KMER_JSON}")
-
-
