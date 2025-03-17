@@ -132,10 +132,10 @@
     {
         "repetitive_sequences": [
             "AA",
-            "GAGA",
             "TG",
-            "CT",
-            "GA"
+            "GAGA",
+            "GA",
+            "CT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -207,8 +207,8 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "CGC"
+            "CGC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -964,8 +964,8 @@
     },
     {
         "repetitive_sequences": [
-            "GA",
-            "GC"
+            "GC",
+            "GA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -2190,10 +2190,10 @@
     {
         "repetitive_sequences": [
             "AA",
-            "AT",
-            "TAA",
-            "GG",
             "CCG",
+            "GG",
+            "TAA",
+            "AT",
             "GC"
         ],
         "AT_GC_rich_regions": {
@@ -3568,9 +3568,9 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
             "GT",
-            "GC"
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -4033,9 +4033,9 @@
     },
     {
         "repetitive_sequences": [
-            "AATAAT",
+            "AAT",
             "CC",
-            "AAT"
+            "AATAAT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -4094,8 +4094,8 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
-            "AAA"
+            "AAA",
+            "AA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -4108,12 +4108,12 @@
     },
     {
         "repetitive_sequences": [
-            "GTGT",
+            "AAA",
             "AA",
             "TG",
-            "GT",
             "CA",
-            "AAA"
+            "GT",
+            "GTGT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -4205,14 +4205,14 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
-            "TA",
-            "AT",
-            "GCG",
-            "CC",
             "TAT",
             "TT",
-            "GG"
+            "TA",
+            "GCG",
+            "AA",
+            "CC",
+            "GG",
+            "AT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -5150,9 +5150,9 @@
     },
     {
         "repetitive_sequences": [
-            "AAAG",
             "AA",
-            "AAAGA"
+            "AAAGA",
+            "AAAG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -5697,8 +5697,8 @@
     },
     {
         "repetitive_sequences": [
-            "GG",
-            "GC"
+            "GC",
+            "GG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -6367,8 +6367,8 @@
     },
     {
         "repetitive_sequences": [
-            "TA",
-            "TT"
+            "TT",
+            "TA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -6781,10 +6781,10 @@
     },
     {
         "repetitive_sequences": [
-            "TTTTT",
             "TTTT",
             "TTT",
-            "TT"
+            "TT",
+            "TTTTT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -6818,11 +6818,11 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
-            "AAG",
+            "AAA",
             "AAAA",
             "AAAAA",
-            "AAA"
+            "AA",
+            "AAG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -7080,13 +7080,13 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
-            "TTTT",
-            "TTTTT",
-            "AAAA",
-            "TTT",
+            "AAA",
             "TT",
-            "AAA"
+            "AAAA",
+            "AA",
+            "TTTTT",
+            "TTT",
+            "TTTT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -7476,13 +7476,13 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AA",
-            "TA",
-            "AT",
             "TT",
+            "TA",
+            "AA",
             "GG",
-            "GC"
+            "AT",
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -8474,10 +8474,10 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
             "AAAA",
-            "AAAAA",
-            "AAA"
+            "AAA",
+            "AA",
+            "AAAAA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -8901,11 +8901,11 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
+            "AAA",
             "AAAA",
             "AAAAA",
-            "AAAAAA",
-            "AAA"
+            "AA",
+            "AAAAAA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -9186,8 +9186,8 @@
     },
     {
         "repetitive_sequences": [
-            "CGG",
-            "GC"
+            "GC",
+            "CGG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -9435,8 +9435,8 @@
         "repetitive_sequences": [
             "ATT",
             "CC",
-            "GG",
-            "GC"
+            "GC",
+            "GG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -10438,10 +10438,10 @@
     },
     {
         "repetitive_sequences": [
-            "GGC",
+            "GGA",
             "GCC",
-            "GG",
-            "GGA"
+            "GGC",
+            "GG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -10767,9 +10767,9 @@
     },
     {
         "repetitive_sequences": [
-            "GGC",
             "GGA",
-            "GGAGG"
+            "GGAGG",
+            "GGC"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -11132,9 +11132,9 @@
     },
     {
         "repetitive_sequences": [
-            "CT",
             "GA",
-            "CTCT"
+            "CTCT",
+            "CT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -11339,8 +11339,8 @@
     {
         "repetitive_sequences": [
             "CTC",
-            "TTCA",
-            "GC"
+            "GC",
+            "TTCA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -11911,16 +11911,16 @@
     },
     {
         "repetitive_sequences": [
-            "CCGCCG",
-            "AA",
-            "TTTT",
-            "TTTTTT",
-            "TTTTT",
-            "TTT",
             "TT",
-            "TCTC",
+            "TTTTTT",
             "TC",
-            "CCG"
+            "AA",
+            "TTTTT",
+            "CCG",
+            "CCGCCG",
+            "TTT",
+            "TCTC",
+            "TTTT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -12124,9 +12124,9 @@
         "repetitive_sequences": [
             "AA",
             "GAGA",
-            "GAGAGA",
             "AG",
-            "GA"
+            "GA",
+            "GAGAGA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -12562,11 +12562,11 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
             "AA",
-            "GG",
             "CCG",
-            "GC"
+            "GG",
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -13690,8 +13690,8 @@
     },
     {
         "repetitive_sequences": [
-            "CT",
-            "TCC"
+            "TCC",
+            "CT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -13717,10 +13717,10 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
             "AAAA",
-            "AT",
-            "AAA"
+            "AAA",
+            "AA",
+            "AT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -14646,9 +14646,9 @@
     },
     {
         "repetitive_sequences": [
-            "TA",
             "AT",
-            "GC"
+            "GC",
+            "TA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -15763,11 +15763,11 @@
     },
     {
         "repetitive_sequences": [
-            "TTTT",
+            "TT",
             "TTTTTT",
             "TTTTT",
             "TTT",
-            "TT"
+            "TTTT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -15877,8 +15877,8 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
-            "AAA"
+            "AAA",
+            "AA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -15930,9 +15930,9 @@
     },
     {
         "repetitive_sequences": [
-            "CT",
             "AA",
-            "TT"
+            "TT",
+            "CT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -16007,10 +16007,10 @@
     },
     {
         "repetitive_sequences": [
-            "AC",
             "AA",
-            "ACAC",
-            "ACACAC"
+            "AC",
+            "ACACAC",
+            "ACAC"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -16034,11 +16034,11 @@
     },
     {
         "repetitive_sequences": [
-            "TTTT",
+            "TT",
+            "GGC",
             "TTT",
             "CT",
-            "TT",
-            "GGC"
+            "TTTT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -16173,10 +16173,10 @@
     },
     {
         "repetitive_sequences": [
+            "GC",
             "AC",
             "ACACAC",
-            "ACAC",
-            "GC"
+            "ACAC"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -16215,10 +16215,10 @@
     },
     {
         "repetitive_sequences": [
-            "GTGT",
-            "GTGTGT",
             "GT",
-            "GC"
+            "GTGT",
+            "GC",
+            "GTGTGT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -16330,9 +16330,9 @@
     },
     {
         "repetitive_sequences": [
-            "TTG",
             "TC",
-            "TT"
+            "TT",
+            "TTG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -16465,10 +16465,10 @@
     },
     {
         "repetitive_sequences": [
-            "TA",
+            "GCG",
             "AT",
             "TT",
-            "GCG"
+            "TA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -17423,9 +17423,9 @@
     },
     {
         "repetitive_sequences": [
-            "GA",
+            "GT",
             "TT",
-            "GT"
+            "GA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -17580,9 +17580,9 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
+            "GC",
             "GGC",
-            "GC"
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -17989,10 +17989,10 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
+            "GC",
             "CGC",
-            "GG",
-            "GC"
+            "CG",
+            "GG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [],
@@ -18755,15 +18755,15 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AA",
-            "TA",
-            "AT",
             "AAA",
-            "CAG",
-            "CAGCAG",
+            "TA",
+            "AA",
             "CCG",
-            "GC"
+            "CAG",
+            "AT",
+            "GC",
+            "CAGCAG",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -19625,12 +19625,12 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AA",
-            "TA",
-            "CAG",
             "TT",
-            "GC"
+            "TA",
+            "AA",
+            "CAG",
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -20530,13 +20530,13 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "TA",
-            "ATAT",
-            "AT",
-            "CC",
             "TT",
-            "GG"
+            "TA",
+            "CC",
+            "ATAT",
+            "GG",
+            "AT",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -21459,13 +21459,13 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
-            "AT",
-            "GCG",
-            "CC",
-            "CAG",
             "TT",
-            "GG"
+            "GCG",
+            "AA",
+            "CC",
+            "GG",
+            "CAG",
+            "AT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -22403,10 +22403,10 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "TA",
+            "CAG",
             "AT",
-            "CAG"
+            "TA",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -23300,8 +23300,8 @@
     {
         "repetitive_sequences": [
             "CAG",
-            "GG",
-            "GC"
+            "GC",
+            "GG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -24239,14 +24239,14 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AA",
-            "AT",
-            "CC",
-            "CAG",
             "TT",
+            "CC",
+            "AA",
             "GG",
-            "GC"
+            "CAG",
+            "AT",
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -25182,11 +25182,11 @@
     },
     {
         "repetitive_sequences": [
-            "AT",
-            "CC",
             "TT",
+            "CC",
             "GGC",
             "GG",
+            "AT",
             "GC"
         ],
         "AT_GC_rich_regions": {
@@ -27063,10 +27063,10 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
             "AA",
             "CC",
-            "AT"
+            "AT",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -28004,10 +28004,10 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
             "AA",
+            "CC",
             "TA",
-            "CC"
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -28945,15 +28945,15 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AA",
             "TA",
-            "AT",
-            "GCGG",
-            "ATTT",
+            "AA",
             "CC",
             "GG",
-            "GC"
+            "AT",
+            "GC",
+            "ATTT",
+            "GCGG",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -29891,12 +29891,12 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
-            "CCC",
-            "CC",
             "TT",
+            "AA",
+            "CC",
             "GG",
-            "GC"
+            "GC",
+            "CCC"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -30834,12 +30834,12 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
-            "CC",
-            "GCCG",
             "TT",
+            "CC",
+            "AA",
             "GG",
-            "GC"
+            "GC",
+            "GCCG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -31777,13 +31777,13 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
             "AA",
             "CC",
-            "CGC",
-            "ATT",
             "GG",
-            "GC"
+            "GC",
+            "ATT",
+            "CGC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -32721,10 +32721,10 @@
     },
     {
         "repetitive_sequences": [
-            "TT",
             "CC",
-            "GG",
-            "TTA"
+            "TT",
+            "TTA",
+            "GG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -33662,11 +33662,11 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AA",
             "AAT",
+            "AA",
             "CCG",
-            "GC"
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -34604,13 +34604,13 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AA",
             "TA",
-            "AT",
             "CC",
+            "AA",
             "GG",
-            "GC"
+            "AT",
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -35548,10 +35548,10 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "CCC",
+            "GCG",
             "CC",
-            "GCG"
+            "CCC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -36489,13 +36489,13 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
             "TA",
-            "AT",
-            "CGG",
             "CC",
             "GG",
-            "GC"
+            "AT",
+            "GC",
+            "CGG",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -37433,11 +37433,11 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
+            "TT",
             "AA",
             "AT",
-            "TT",
-            "GC"
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -38375,12 +38375,12 @@
     },
     {
         "repetitive_sequences": [
+            "TAT",
+            "TT",
             "AA",
+            "GG",
             "TTT",
             "TTA",
-            "GG",
-            "TT",
-            "TAT",
             "GC"
         ],
         "AT_GC_rich_regions": {
@@ -39319,10 +39319,10 @@
     },
     {
         "repetitive_sequences": [
-            "TA",
             "AT",
-            "GG",
-            "GC"
+            "GC",
+            "TA",
+            "GG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -40258,8 +40258,8 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "TA"
+            "TA",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -41197,10 +41197,10 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
             "TT",
-            "GG",
-            "GC"
+            "GC",
+            "CG",
+            "GG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -42138,12 +42138,12 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
             "GCG",
             "CC",
             "CCG",
             "GG",
-            "GC"
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -43081,10 +43081,10 @@
     },
     {
         "repetitive_sequences": [
-            "TT",
             "AT",
-            "GG",
-            "TA"
+            "TT",
+            "TA",
+            "GG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -44022,11 +44022,11 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AT",
             "GCG",
             "CC",
-            "GC"
+            "AT",
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -44965,9 +44965,9 @@
     {
         "repetitive_sequences": [
             "AA",
-            "TA",
+            "GC",
             "AT",
-            "GC"
+            "TA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -45906,9 +45906,9 @@
     {
         "repetitive_sequences": [
             "AA",
-            "TA",
+            "GC",
             "TTA",
-            "GC"
+            "TA"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -46846,13 +46846,13 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AA",
             "TA",
-            "AT",
             "CC",
+            "AA",
             "GG",
-            "GC"
+            "AT",
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -47792,8 +47792,8 @@
         "repetitive_sequences": [
             "GCGG",
             "CC",
-            "GG",
-            "GC"
+            "GC",
+            "GG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -48731,11 +48731,11 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AT",
             "CC",
             "GG",
-            "GC"
+            "AT",
+            "GC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -49673,14 +49673,14 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AA",
-            "AT",
-            "CGC",
             "TT",
+            "AA",
             "GGC",
             "GG",
-            "GC"
+            "AT",
+            "GC",
+            "CGC",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -50618,10 +50618,10 @@
     },
     {
         "repetitive_sequences": [
-            "AA",
             "TA",
-            "AT",
+            "AA",
             "GGC",
+            "AT",
             "GC"
         ],
         "AT_GC_rich_regions": {
@@ -51560,12 +51560,12 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
-            "AATA",
-            "AT",
             "CC",
             "GG",
-            "GC"
+            "AT",
+            "GC",
+            "AATA",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -52505,8 +52505,8 @@
         "repetitive_sequences": [
             "AA",
             "CC",
-            "AT",
-            "GC"
+            "GC",
+            "AT"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
@@ -53444,12 +53444,12 @@
     },
     {
         "repetitive_sequences": [
-            "CG",
+            "TT",
             "AA",
             "CC",
-            "TT",
             "GGC",
-            "GG"
+            "GG",
+            "CG"
         ],
         "AT_GC_rich_regions": {
             "AT_rich": [
